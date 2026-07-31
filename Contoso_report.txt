@@ -1,0 +1,1201 @@
+Period	Year	Quarter	Region	Category	Channel	Revenue	COGS	OpEx	Net Profit	Budget	Variance
+Jan 2025	2025	Q1	North America	Hardware	Enterprise Direct	67614	45879	15032	6703	66435	1179
+Jan 2025	2025	Q1	North America	Enterprise Software	Enterprise Direct	99292	28110	21195	49987	101999	-2707
+Jan 2025	2025	Q1	North America	Cloud Services	Enterprise Direct	124396	42454	28639	53303	114518	9878
+Jan 2025	2025	Q1	North America	Consumer Electronics	Enterprise Direct	53176	39012	10115	4049	53020	156
+Jan 2025	2025	Q1	North America	Accessories	Enterprise Direct	31933	14699	6990	10244	29789	2144
+Jan 2025	2025	Q1	North America	Hardware	Retail Stores	55407	35933	10794	8680	56447	-1040
+Jan 2025	2025	Q1	North America	Enterprise Software	Retail Stores	89201	21981	20252	46968	84154	5047
+Jan 2025	2025	Q1	North America	Cloud Services	Retail Stores	107483	38628	21366	47489	107593	-110
+Jan 2025	2025	Q1	North America	Consumer Electronics	Retail Stores	56908	39364	12542	5002	58669	-1761
+Jan 2025	2025	Q1	North America	Accessories	Retail Stores	27157	13592	6290	7275	26542	615
+Jan 2025	2025	Q1	North America	Hardware	Online / E-Commerce	65225	43406	13796	8023	62509	2716
+Jan 2025	2025	Q1	North America	Enterprise Software	Online / E-Commerce	94898	25497	19396	50005	88658	6240
+Jan 2025	2025	Q1	North America	Cloud Services	Online / E-Commerce	117746	38760	23001	55985	115401	2345
+Jan 2025	2025	Q1	North America	Consumer Electronics	Online / E-Commerce	50682	34825	10771	5086	48406	2276
+Jan 2025	2025	Q1	North America	Accessories	Online / E-Commerce	26634	13052	5411	8171	26169	465
+Jan 2025	2025	Q1	North America	Hardware	Partner Network	62669	39327	13377	9965	60879	1790
+Jan 2025	2025	Q1	North America	Enterprise Software	Partner Network	82139	22283	17191	42665	87665	-5526
+Jan 2025	2025	Q1	North America	Cloud Services	Partner Network	118945	39932	29169	49844	120790	-1845
+Jan 2025	2025	Q1	North America	Consumer Electronics	Partner Network	52030	39212	11749	1069	53795	-1765
+Jan 2025	2025	Q1	North America	Accessories	Partner Network	34212	17371	7962	8879	34711	-499
+Jan 2025	2025	Q1	Europe	Hardware	Enterprise Direct	52637	35107	11868	5662	54202	-1565
+Jan 2025	2025	Q1	Europe	Enterprise Software	Enterprise Direct	74955	21534	17326	36095	77766	-2811
+Jan 2025	2025	Q1	Europe	Cloud Services	Enterprise Direct	99260	36216	23233	39811	100942	-1682
+Jan 2025	2025	Q1	Europe	Consumer Electronics	Enterprise Direct	45601	33688	10322	1591	49159	-3558
+Jan 2025	2025	Q1	Europe	Accessories	Enterprise Direct	25548	12990	6368	6190	25471	77
+Jan 2025	2025	Q1	Europe	Hardware	Retail Stores	52775	36363	11551	4861	55180	-2405
+Jan 2025	2025	Q1	Europe	Enterprise Software	Retail Stores	80783	22498	19153	39132	84085	-3302
+Jan 2025	2025	Q1	Europe	Cloud Services	Retail Stores	96074	35815	22609	37650	95925	149
+Jan 2025	2025	Q1	Europe	Consumer Electronics	Retail Stores	46884	34715	10287	1882	43800	3084
+Jan 2025	2025	Q1	Europe	Accessories	Retail Stores	25699	12830	5020	7849	25944	-245
+Jan 2025	2025	Q1	Europe	Hardware	Online / E-Commerce	51001	31473	11402	8126	47797	3204
+Jan 2025	2025	Q1	Europe	Enterprise Software	Online / E-Commerce	61780	17593	12136	32051	65628	-3848
+Jan 2025	2025	Q1	Europe	Cloud Services	Online / E-Commerce	98342	31331	23932	43079	94802	3540
+Jan 2025	2025	Q1	Europe	Consumer Electronics	Online / E-Commerce	38105	28622	7869	1614	40050	-1945
+Jan 2025	2025	Q1	Europe	Accessories	Online / E-Commerce	26658	12849	6375	7434	25203	1455
+Jan 2025	2025	Q1	Europe	Hardware	Partner Network	47698	32221	9517	5960	46587	1111
+Jan 2025	2025	Q1	Europe	Enterprise Software	Partner Network	77218	19514	16314	41390	74612	2606
+Jan 2025	2025	Q1	Europe	Cloud Services	Partner Network	86730	29346	17983	39401	91617	-4887
+Jan 2025	2025	Q1	Europe	Consumer Electronics	Partner Network	41308	29045	9961	2302	41768	-460
+Jan 2025	2025	Q1	Europe	Accessories	Partner Network	22359	11809	5012	5538	23754	-1395
+Jan 2025	2025	Q1	Asia-Pacific	Hardware	Enterprise Direct	41130	26963	10011	4156	38828	2302
+Jan 2025	2025	Q1	Asia-Pacific	Enterprise Software	Enterprise Direct	52323	16282	10413	25628	55706	-3383
+Jan 2025	2025	Q1	Asia-Pacific	Cloud Services	Enterprise Direct	78486	25274	19170	34042	83370	-4884
+Jan 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Enterprise Direct	28117	21153	6842	122	27685	432
+Jan 2025	2025	Q1	Asia-Pacific	Accessories	Enterprise Direct	19464	10338	4170	4956	19912	-448
+Jan 2025	2025	Q1	Asia-Pacific	Hardware	Retail Stores	41541	26683	9498	5360	39074	2467
+Jan 2025	2025	Q1	Asia-Pacific	Enterprise Software	Retail Stores	49778	14511	9843	25424	50123	-345
+Jan 2025	2025	Q1	Asia-Pacific	Cloud Services	Retail Stores	73302	23479	16317	33506	75938	-2636
+Jan 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Retail Stores	27916	20196	6518	1202	28978	-1062
+Jan 2025	2025	Q1	Asia-Pacific	Accessories	Retail Stores	17586	9109	4120	4357	18941	-1355
+Jan 2025	2025	Q1	Asia-Pacific	Hardware	Online / E-Commerce	39708	26566	9883	3259	42202	-2494
+Jan 2025	2025	Q1	Asia-Pacific	Enterprise Software	Online / E-Commerce	54910	17490	13373	24047	58850	-3940
+Jan 2025	2025	Q1	Asia-Pacific	Cloud Services	Online / E-Commerce	80417	30671	19855	29891	79322	1095
+Jan 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Online / E-Commerce	35112	26540	7545	1027	35888	-776
+Jan 2025	2025	Q1	Asia-Pacific	Accessories	Online / E-Commerce	19695	9713	4496	5486	20403	-708
+Jan 2025	2025	Q1	Asia-Pacific	Hardware	Partner Network	36250	23963	8464	3823	33662	2588
+Jan 2025	2025	Q1	Asia-Pacific	Enterprise Software	Partner Network	53377	15905	10314	27158	53850	-473
+Jan 2025	2025	Q1	Asia-Pacific	Cloud Services	Partner Network	75005	23575	16750	34680	74753	252
+Jan 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Partner Network	27209	19711	5952	1546	25649	1560
+Jan 2025	2025	Q1	Asia-Pacific	Accessories	Partner Network	17648	8794	3503	5351	18175	-527
+Jan 2025	2025	Q1	Latin America	Hardware	Enterprise Direct	36965	22968	8546	5451	37554	-589
+Jan 2025	2025	Q1	Latin America	Enterprise Software	Enterprise Direct	45744	13491	10337	21916	46645	-901
+Jan 2025	2025	Q1	Latin America	Cloud Services	Enterprise Direct	74200	26561	16872	30767	72160	2040
+Jan 2025	2025	Q1	Latin America	Consumer Electronics	Enterprise Direct	32352	23612	6784	1956	34362	-2010
+Jan 2025	2025	Q1	Latin America	Accessories	Enterprise Direct	18001	8753	4380	4868	17788	213
+Jan 2025	2025	Q1	Latin America	Hardware	Retail Stores	35283	24030	7605	3648	32746	2537
+Jan 2025	2025	Q1	Latin America	Enterprise Software	Retail Stores	57225	15684	11046	30495	60497	-3272
+Jan 2025	2025	Q1	Latin America	Cloud Services	Retail Stores	68705	21577	16588	30540	73909	-5204
+Jan 2025	2025	Q1	Latin America	Consumer Electronics	Retail Stores	27178	20345	6751	82	28992	-1814
+Jan 2025	2025	Q1	Latin America	Accessories	Retail Stores	19221	10338	4710	4173	20730	-1509
+Jan 2025	2025	Q1	Latin America	Hardware	Online / E-Commerce	42483	29032	10597	2854	42117	366
+Jan 2025	2025	Q1	Latin America	Enterprise Software	Online / E-Commerce	57668	18410	12501	26757	62032	-4364
+Jan 2025	2025	Q1	Latin America	Cloud Services	Online / E-Commerce	80607	27865	20021	32721	85890	-5283
+Jan 2025	2025	Q1	Latin America	Consumer Electronics	Online / E-Commerce	30906	23422	7559	-75	33200	-2294
+Jan 2025	2025	Q1	Latin America	Accessories	Online / E-Commerce	19823	10561	4913	4349	20564	-741
+Jan 2025	2025	Q1	Latin America	Hardware	Partner Network	41772	28702	9775	3295	38820	2952
+Jan 2025	2025	Q1	Latin America	Enterprise Software	Partner Network	58385	17438	11297	29650	60871	-2486
+Jan 2025	2025	Q1	Latin America	Cloud Services	Partner Network	75189	23659	17742	33788	72771	2418
+Jan 2025	2025	Q1	Latin America	Consumer Electronics	Partner Network	27251	20201	5667	1383	27180	71
+Jan 2025	2025	Q1	Latin America	Accessories	Partner Network	18746	9072	4106	5568	18074	672
+Jan 2025	2025	Q1	Middle East & Africa	Hardware	Enterprise Direct	34957	22676	7220	5061	33895	1062
+Jan 2025	2025	Q1	Middle East & Africa	Enterprise Software	Enterprise Direct	51003	13366	10639	26998	47407	3596
+Jan 2025	2025	Q1	Middle East & Africa	Cloud Services	Enterprise Direct	65542	21944	12686	30912	66338	-796
+Jan 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Enterprise Direct	29623	20284	6652	2687	31381	-1758
+Jan 2025	2025	Q1	Middle East & Africa	Accessories	Enterprise Direct	15065	7624	3650	3791	15924	-859
+Jan 2025	2025	Q1	Middle East & Africa	Hardware	Retail Stores	38047	25860	9184	3003	35178	2869
+Jan 2025	2025	Q1	Middle East & Africa	Enterprise Software	Retail Stores	56958	17572	10920	28466	55707	1251
+Jan 2025	2025	Q1	Middle East & Africa	Cloud Services	Retail Stores	77781	24290	16471	37020	82724	-4943
+Jan 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Retail Stores	26971	19123	6576	1272	28663	-1692
+Jan 2025	2025	Q1	Middle East & Africa	Accessories	Retail Stores	16645	8851	4053	3741	17210	-565
+Jan 2025	2025	Q1	Middle East & Africa	Hardware	Online / E-Commerce	41633	28367	9690	3576	39251	2382
+Jan 2025	2025	Q1	Middle East & Africa	Enterprise Software	Online / E-Commerce	57281	17012	11373	28896	53324	3957
+Jan 2025	2025	Q1	Middle East & Africa	Cloud Services	Online / E-Commerce	74742	24021	14507	36214	76969	-2227
+Jan 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Online / E-Commerce	28043	19222	6483	2338	28672	-629
+Jan 2025	2025	Q1	Middle East & Africa	Accessories	Online / E-Commerce	15111	7781	3452	3878	15123	-12
+Jan 2025	2025	Q1	Middle East & Africa	Hardware	Partner Network	39279	25972	8653	4654	40596	-1317
+Jan 2025	2025	Q1	Middle East & Africa	Enterprise Software	Partner Network	53411	14976	12422	26013	53016	395
+Jan 2025	2025	Q1	Middle East & Africa	Cloud Services	Partner Network	70368	25808	15286	29274	64989	5379
+Jan 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Partner Network	33388	23916	6388	3084	32037	1351
+Jan 2025	2025	Q1	Middle East & Africa	Accessories	Partner Network	17119	7905	3506	5708	16067	1052
+Feb 2025	2025	Q1	North America	Hardware	Enterprise Direct	55770	35122	10984	9664	57752	-1982
+Feb 2025	2025	Q1	North America	Enterprise Software	Enterprise Direct	82889	20661	19340	42888	81372	1517
+Feb 2025	2025	Q1	North America	Cloud Services	Enterprise Direct	108795	40011	23188	45596	106405	2390
+Feb 2025	2025	Q1	North America	Consumer Electronics	Enterprise Direct	58636	41681	12417	4538	62510	-3874
+Feb 2025	2025	Q1	North America	Accessories	Enterprise Direct	29338	14347	7181	7810	31217	-1879
+Feb 2025	2025	Q1	North America	Hardware	Retail Stores	62418	42634	15231	4553	63625	-1207
+Feb 2025	2025	Q1	North America	Enterprise Software	Retail Stores	100805	31453	22908	46444	97453	3352
+Feb 2025	2025	Q1	North America	Cloud Services	Retail Stores	137731	49538	28583	59610	134378	3353
+Feb 2025	2025	Q1	North America	Consumer Electronics	Retail Stores	56967	40069	12013	4885	59263	-2296
+Feb 2025	2025	Q1	North America	Accessories	Retail Stores	28486	13896	6698	7892	29657	-1171
+Feb 2025	2025	Q1	North America	Hardware	Online / E-Commerce	62129	41636	14626	5867	58210	3919
+Feb 2025	2025	Q1	North America	Enterprise Software	Online / E-Commerce	96473	28996	18942	48535	101218	-4745
+Feb 2025	2025	Q1	North America	Cloud Services	Online / E-Commerce	132447	42179	31581	58687	127634	4813
+Feb 2025	2025	Q1	North America	Consumer Electronics	Online / E-Commerce	48471	36091	10003	2377	45369	3102
+Feb 2025	2025	Q1	North America	Accessories	Online / E-Commerce	33182	15988	6504	10690	35153	-1971
+Feb 2025	2025	Q1	North America	Hardware	Partner Network	60664	37491	14697	8476	57600	3064
+Feb 2025	2025	Q1	North America	Enterprise Software	Partner Network	78931	24445	15870	38616	83528	-4597
+Feb 2025	2025	Q1	North America	Cloud Services	Partner Network	136663	44381	33051	59231	126290	10373
+Feb 2025	2025	Q1	North America	Consumer Electronics	Partner Network	49767	37281	9532	2954	45922	3845
+Feb 2025	2025	Q1	North America	Accessories	Partner Network	33697	15570	6437	11690	31644	2053
+Feb 2025	2025	Q1	Europe	Hardware	Enterprise Direct	43870	26821	8649	8400	42051	1819
+Feb 2025	2025	Q1	Europe	Enterprise Software	Enterprise Direct	60266	15039	12322	32905	62275	-2009
+Feb 2025	2025	Q1	Europe	Cloud Services	Enterprise Direct	85581	28180	19898	37503	90087	-4506
+Feb 2025	2025	Q1	Europe	Consumer Electronics	Enterprise Direct	39836	29346	9550	940	40039	-203
+Feb 2025	2025	Q1	Europe	Accessories	Enterprise Direct	25362	13349	5628	6385	26714	-1352
+Feb 2025	2025	Q1	Europe	Hardware	Retail Stores	56199	36673	13488	6038	55245	954
+Feb 2025	2025	Q1	Europe	Enterprise Software	Retail Stores	71147	21818	15199	34130	76565	-5418
+Feb 2025	2025	Q1	Europe	Cloud Services	Retail Stores	106277	36295	26416	43566	113218	-6941
+Feb 2025	2025	Q1	Europe	Consumer Electronics	Retail Stores	41819	31702	10224	-107	40010	1809
+Feb 2025	2025	Q1	Europe	Accessories	Retail Stores	27278	14530	5559	7189	29369	-2091
+Feb 2025	2025	Q1	Europe	Hardware	Online / E-Commerce	57414	36077	14281	7056	54871	2543
+Feb 2025	2025	Q1	Europe	Enterprise Software	Online / E-Commerce	64757	20614	13171	30972	69755	-4998
+Feb 2025	2025	Q1	Europe	Cloud Services	Online / E-Commerce	110502	36228	27509	46765	104339	6163
+Feb 2025	2025	Q1	Europe	Consumer Electronics	Online / E-Commerce	39606	30045	7885	1676	39442	164
+Feb 2025	2025	Q1	Europe	Accessories	Online / E-Commerce	27324	12900	5969	8455	28820	-1496
+Feb 2025	2025	Q1	Europe	Hardware	Partner Network	45801	29676	11017	5108	45827	-26
+Feb 2025	2025	Q1	Europe	Enterprise Software	Partner Network	69927	21494	15399	33034	74121	-4194
+Feb 2025	2025	Q1	Europe	Cloud Services	Partner Network	106537	37318	25834	43385	107345	-808
+Feb 2025	2025	Q1	Europe	Consumer Electronics	Partner Network	43239	32429	9635	1175	46588	-3349
+Feb 2025	2025	Q1	Europe	Accessories	Partner Network	26554	13378	6613	6563	27985	-1431
+Feb 2025	2025	Q1	Asia-Pacific	Hardware	Enterprise Direct	37729	25985	9063	2681	39902	-2173
+Feb 2025	2025	Q1	Asia-Pacific	Enterprise Software	Enterprise Direct	58697	18016	14181	26500	58866	-169
+Feb 2025	2025	Q1	Asia-Pacific	Cloud Services	Enterprise Direct	77365	29306	17104	30955	80638	-3273
+Feb 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Enterprise Direct	34806	25110	8210	1486	33258	1548
+Feb 2025	2025	Q1	Asia-Pacific	Accessories	Enterprise Direct	17453	9096	3548	4809	18461	-1008
+Feb 2025	2025	Q1	Asia-Pacific	Hardware	Retail Stores	40151	25205	9703	5243	43211	-3060
+Feb 2025	2025	Q1	Asia-Pacific	Enterprise Software	Retail Stores	46978	14511	11678	20789	44038	2940
+Feb 2025	2025	Q1	Asia-Pacific	Cloud Services	Retail Stores	77878	30225	15305	32348	71932	5946
+Feb 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Retail Stores	35902	24726	6870	4306	37577	-1675
+Feb 2025	2025	Q1	Asia-Pacific	Accessories	Retail Stores	15323	7077	3639	4607	15408	-85
+Feb 2025	2025	Q1	Asia-Pacific	Hardware	Online / E-Commerce	31874	21462	7079	3333	32255	-381
+Feb 2025	2025	Q1	Asia-Pacific	Enterprise Software	Online / E-Commerce	55738	15762	12512	27464	60141	-4403
+Feb 2025	2025	Q1	Asia-Pacific	Cloud Services	Online / E-Commerce	71000	25274	17723	28003	73487	-2487
+Feb 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Online / E-Commerce	32117	24393	7488	236	34116	-1999
+Feb 2025	2025	Q1	Asia-Pacific	Accessories	Online / E-Commerce	19931	10315	4850	4766	19403	528
+Feb 2025	2025	Q1	Asia-Pacific	Hardware	Partner Network	39643	27002	8327	4314	39239	404
+Feb 2025	2025	Q1	Asia-Pacific	Enterprise Software	Partner Network	57235	15267	12373	29595	57301	-66
+Feb 2025	2025	Q1	Asia-Pacific	Cloud Services	Partner Network	66775	23031	14719	29025	62741	4034
+Feb 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Partner Network	30813	22203	6081	2529	28751	2062
+Feb 2025	2025	Q1	Asia-Pacific	Accessories	Partner Network	17397	8173	3391	5833	16479	918
+Feb 2025	2025	Q1	Latin America	Hardware	Enterprise Direct	32986	20337	6604	6045	35364	-2378
+Feb 2025	2025	Q1	Latin America	Enterprise Software	Enterprise Direct	44822	11368	11073	22381	46239	-1417
+Feb 2025	2025	Q1	Latin America	Cloud Services	Enterprise Direct	63316	24443	14680	24193	67454	-4138
+Feb 2025	2025	Q1	Latin America	Consumer Electronics	Enterprise Direct	35660	26239	8719	702	33180	2480
+Feb 2025	2025	Q1	Latin America	Accessories	Enterprise Direct	18389	9795	3566	5028	19102	-713
+Feb 2025	2025	Q1	Latin America	Hardware	Retail Stores	41759	25692	9794	6273	39086	2673
+Feb 2025	2025	Q1	Latin America	Enterprise Software	Retail Stores	44571	13344	8736	22491	42498	2073
+Feb 2025	2025	Q1	Latin America	Cloud Services	Retail Stores	75374	23968	15267	36139	70371	5003
+Feb 2025	2025	Q1	Latin America	Consumer Electronics	Retail Stores	27643	19260	5393	2990	28988	-1345
+Feb 2025	2025	Q1	Latin America	Accessories	Retail Stores	15846	7397	3775	4674	16694	-848
+Feb 2025	2025	Q1	Latin America	Hardware	Online / E-Commerce	32570	21963	7819	2788	34138	-1568
+Feb 2025	2025	Q1	Latin America	Enterprise Software	Online / E-Commerce	55929	17156	13314	25459	51965	3964
+Feb 2025	2025	Q1	Latin America	Cloud Services	Online / E-Commerce	77314	28921	14954	33439	74820	2494
+Feb 2025	2025	Q1	Latin America	Consumer Electronics	Online / E-Commerce	34249	23446	7121	3682	35514	-1265
+Feb 2025	2025	Q1	Latin America	Accessories	Online / E-Commerce	15053	7284	3520	4249	14848	205
+Feb 2025	2025	Q1	Latin America	Hardware	Partner Network	34950	23363	7511	4076	35646	-696
+Feb 2025	2025	Q1	Latin America	Enterprise Software	Partner Network	54802	14972	12466	27364	54269	533
+Feb 2025	2025	Q1	Latin America	Cloud Services	Partner Network	68475	24648	14815	29012	68125	350
+Feb 2025	2025	Q1	Latin America	Consumer Electronics	Partner Network	32586	23303	7106	2177	33545	-959
+Feb 2025	2025	Q1	Latin America	Accessories	Partner Network	17043	8478	3937	4628	15737	1306
+Feb 2025	2025	Q1	Middle East & Africa	Hardware	Enterprise Direct	36843	24490	7047	5306	35384	1459
+Feb 2025	2025	Q1	Middle East & Africa	Enterprise Software	Enterprise Direct	54080	13070	11094	29916	55439	-1359
+Feb 2025	2025	Q1	Middle East & Africa	Cloud Services	Enterprise Direct	60170	19868	13804	26498	58553	1617
+Feb 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Enterprise Direct	29081	21304	6105	1672	28512	569
+Feb 2025	2025	Q1	Middle East & Africa	Accessories	Enterprise Direct	18178	8845	3866	5467	18712	-534
+Feb 2025	2025	Q1	Middle East & Africa	Hardware	Retail Stores	35326	22616	8161	4549	33242	2084
+Feb 2025	2025	Q1	Middle East & Africa	Enterprise Software	Retail Stores	49372	14549	9770	25053	47267	2105
+Feb 2025	2025	Q1	Middle East & Africa	Cloud Services	Retail Stores	74134	23760	15124	35250	71993	2141
+Feb 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Retail Stores	27939	19520	5844	2575	29988	-2049
+Feb 2025	2025	Q1	Middle East & Africa	Accessories	Retail Stores	15972	7755	3953	4264	15432	540
+Feb 2025	2025	Q1	Middle East & Africa	Hardware	Online / E-Commerce	35186	24161	7295	3730	34818	368
+Feb 2025	2025	Q1	Middle East & Africa	Enterprise Software	Online / E-Commerce	58301	15339	12598	30364	53985	4316
+Feb 2025	2025	Q1	Middle East & Africa	Cloud Services	Online / E-Commerce	65811	22690	12652	30469	63097	2714
+Feb 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Online / E-Commerce	30798	21035	6299	3464	29859	939
+Feb 2025	2025	Q1	Middle East & Africa	Accessories	Online / E-Commerce	14951	7167	3118	4666	14108	843
+Feb 2025	2025	Q1	Middle East & Africa	Hardware	Partner Network	34323	21787	6825	5711	36249	-1926
+Feb 2025	2025	Q1	Middle East & Africa	Enterprise Software	Partner Network	48323	12168	11648	24507	47411	912
+Feb 2025	2025	Q1	Middle East & Africa	Cloud Services	Partner Network	62838	23757	13379	25702	62652	186
+Feb 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Partner Network	34719	24670	7600	2449	34861	-142
+Feb 2025	2025	Q1	Middle East & Africa	Accessories	Partner Network	16745	8348	3710	4687	17565	-820
+Mar 2025	2025	Q1	North America	Hardware	Enterprise Direct	64738	42212	15432	7094	65563	-825
+Mar 2025	2025	Q1	North America	Enterprise Software	Enterprise Direct	90382	27521	20316	42545	84129	6253
+Mar 2025	2025	Q1	North America	Cloud Services	Enterprise Direct	134260	47846	26054	60360	126289	7971
+Mar 2025	2025	Q1	North America	Consumer Electronics	Enterprise Direct	56286	38579	11130	6577	60575	-4289
+Mar 2025	2025	Q1	North America	Accessories	Enterprise Direct	26439	12435	6572	7432	25032	1407
+Mar 2025	2025	Q1	North America	Hardware	Retail Stores	57853	39809	11573	6471	61850	-3997
+Mar 2025	2025	Q1	North America	Enterprise Software	Retail Stores	102510	25975	25208	51327	100181	2329
+Mar 2025	2025	Q1	North America	Cloud Services	Retail Stores	110697	42568	23410	44719	117626	-6929
+Mar 2025	2025	Q1	North America	Consumer Electronics	Retail Stores	62094	44002	15118	2974	60242	1852
+Mar 2025	2025	Q1	North America	Accessories	Retail Stores	29086	15453	6074	7559	29208	-122
+Mar 2025	2025	Q1	North America	Hardware	Online / E-Commerce	72740	46196	16117	10427	74342	-1602
+Mar 2025	2025	Q1	North America	Enterprise Software	Online / E-Commerce	84679	23888	19329	41462	90065	-5386
+Mar 2025	2025	Q1	North America	Cloud Services	Online / E-Commerce	123935	44742	30222	48971	117351	6584
+Mar 2025	2025	Q1	North America	Consumer Electronics	Online / E-Commerce	57243	43035	11453	2755	55958	1285
+Mar 2025	2025	Q1	North America	Accessories	Online / E-Commerce	34003	16098	7194	10711	31734	2269
+Mar 2025	2025	Q1	North America	Hardware	Partner Network	58615	37442	11428	9745	57422	1193
+Mar 2025	2025	Q1	North America	Enterprise Software	Partner Network	85918	21190	18246	46482	80292	5626
+Mar 2025	2025	Q1	North America	Cloud Services	Partner Network	107580	36559	21026	49995	103423	4157
+Mar 2025	2025	Q1	North America	Consumer Electronics	Partner Network	52876	36339	10867	5670	56118	-3242
+Mar 2025	2025	Q1	North America	Accessories	Partner Network	26650	12810	6476	7364	27882	-1232
+Mar 2025	2025	Q1	Europe	Hardware	Enterprise Direct	47444	32293	11260	3891	49521	-2077
+Mar 2025	2025	Q1	Europe	Enterprise Software	Enterprise Direct	78574	23817	18576	36181	81691	-3117
+Mar 2025	2025	Q1	Europe	Cloud Services	Enterprise Direct	104993	39045	24660	41288	108476	-3483
+Mar 2025	2025	Q1	Europe	Consumer Electronics	Enterprise Direct	46738	34578	10864	1296	47563	-825
+Mar 2025	2025	Q1	Europe	Accessories	Enterprise Direct	25645	13248	5812	6585	26743	-1098
+Mar 2025	2025	Q1	Europe	Hardware	Retail Stores	54332	35795	12825	5712	58019	-3687
+Mar 2025	2025	Q1	Europe	Enterprise Software	Retail Stores	72806	21944	17870	32992	73405	-599
+Mar 2025	2025	Q1	Europe	Cloud Services	Retail Stores	104372	40071	23284	41017	102373	1999
+Mar 2025	2025	Q1	Europe	Consumer Electronics	Retail Stores	48689	35256	10362	3071	52376	-3687
+Mar 2025	2025	Q1	Europe	Accessories	Retail Stores	24238	11887	6021	6330	25663	-1425
+Mar 2025	2025	Q1	Europe	Hardware	Online / E-Commerce	49313	33921	11936	3456	50187	-874
+Mar 2025	2025	Q1	Europe	Enterprise Software	Online / E-Commerce	80480	24901	18240	37339	78628	1852
+Mar 2025	2025	Q1	Europe	Cloud Services	Online / E-Commerce	107269	38494	22674	46101	98707	8562
+Mar 2025	2025	Q1	Europe	Consumer Electronics	Online / E-Commerce	44628	31619	8482	4527	43637	991
+Mar 2025	2025	Q1	Europe	Accessories	Online / E-Commerce	22840	10509	4835	7496	22455	385
+Mar 2025	2025	Q1	Europe	Hardware	Partner Network	43495	27789	9294	6412	46815	-3320
+Mar 2025	2025	Q1	Europe	Enterprise Software	Partner Network	67538	18342	16791	32405	64507	3031
+Mar 2025	2025	Q1	Europe	Cloud Services	Partner Network	93565	36318	19010	38237	99393	-5828
+Mar 2025	2025	Q1	Europe	Consumer Electronics	Partner Network	49374	34441	12016	2917	53192	-3818
+Mar 2025	2025	Q1	Europe	Accessories	Partner Network	21862	11612	5444	4806	23418	-1556
+Mar 2025	2025	Q1	Asia-Pacific	Hardware	Enterprise Direct	41545	28611	10249	2685	43515	-1970
+Mar 2025	2025	Q1	Asia-Pacific	Enterprise Software	Enterprise Direct	58685	18520	13954	26211	59326	-641
+Mar 2025	2025	Q1	Asia-Pacific	Cloud Services	Enterprise Direct	79642	29763	17848	32031	81692	-2050
+Mar 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Enterprise Direct	34207	24816	7856	1535	36194	-1987
+Mar 2025	2025	Q1	Asia-Pacific	Accessories	Enterprise Direct	17716	9086	4283	4347	17575	141
+Mar 2025	2025	Q1	Asia-Pacific	Hardware	Retail Stores	38995	26479	8463	4053	41782	-2787
+Mar 2025	2025	Q1	Asia-Pacific	Enterprise Software	Retail Stores	56835	15688	14027	27120	52875	3960
+Mar 2025	2025	Q1	Asia-Pacific	Cloud Services	Retail Stores	69220	26700	13420	29100	70851	-1631
+Mar 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Retail Stores	35622	24407	8152	3063	35685	-63
+Mar 2025	2025	Q1	Asia-Pacific	Accessories	Retail Stores	15092	7724	3330	4038	15527	-435
+Mar 2025	2025	Q1	Asia-Pacific	Hardware	Online / E-Commerce	38844	25283	8965	4596	37704	1140
+Mar 2025	2025	Q1	Asia-Pacific	Enterprise Software	Online / E-Commerce	51423	15139	10747	25537	52180	-757
+Mar 2025	2025	Q1	Asia-Pacific	Cloud Services	Online / E-Commerce	74061	24835	16702	32524	79973	-5912
+Mar 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Online / E-Commerce	29685	21592	7419	674	27498	2187
+Mar 2025	2025	Q1	Asia-Pacific	Accessories	Online / E-Commerce	17839	9632	3432	4775	16773	1066
+Mar 2025	2025	Q1	Asia-Pacific	Hardware	Partner Network	42768	26224	8451	8093	45712	-2944
+Mar 2025	2025	Q1	Asia-Pacific	Enterprise Software	Partner Network	44174	11049	10859	22266	46793	-2619
+Mar 2025	2025	Q1	Asia-Pacific	Cloud Services	Partner Network	62397	23987	15115	23295	66891	-4494
+Mar 2025	2025	Q1	Asia-Pacific	Consumer Electronics	Partner Network	35468	26588	8761	119	37481	-2013
+Mar 2025	2025	Q1	Asia-Pacific	Accessories	Partner Network	19290	10340	4654	4296	20559	-1269
+Mar 2025	2025	Q1	Latin America	Hardware	Enterprise Direct	42223	28643	10330	3250	43125	-902
+Mar 2025	2025	Q1	Latin America	Enterprise Software	Enterprise Direct	56706	17742	12930	26034	57034	-328
+Mar 2025	2025	Q1	Latin America	Cloud Services	Enterprise Direct	78932	28469	17536	32927	79845	-913
+Mar 2025	2025	Q1	Latin America	Consumer Electronics	Enterprise Direct	32672	23618	7330	1724	32371	301
+Mar 2025	2025	Q1	Latin America	Accessories	Enterprise Direct	17548	8875	3800	4873	16631	917
+Mar 2025	2025	Q1	Latin America	Hardware	Retail Stores	38007	24530	7617	5860	37204	803
+Mar 2025	2025	Q1	Latin America	Enterprise Software	Retail Stores	50369	12788	10682	26899	54013	-3644
+Mar 2025	2025	Q1	Latin America	Cloud Services	Retail Stores	63384	21514	15664	26206	60950	2434
+Mar 2025	2025	Q1	Latin America	Consumer Electronics	Retail Stores	30168	22812	6202	1154	29532	636
+Mar 2025	2025	Q1	Latin America	Accessories	Retail Stores	19715	9479	4182	6054	19097	618
+Mar 2025	2025	Q1	Latin America	Hardware	Online / E-Commerce	34521	22075	7189	5257	35327	-806
+Mar 2025	2025	Q1	Latin America	Enterprise Software	Online / E-Commerce	49228	13012	11261	24955	52327	-3099
+Mar 2025	2025	Q1	Latin America	Cloud Services	Online / E-Commerce	66135	23919	16111	26105	69080	-2945
+Mar 2025	2025	Q1	Latin America	Consumer Electronics	Online / E-Commerce	32788	24639	7761	388	33998	-1210
+Mar 2025	2025	Q1	Latin America	Accessories	Online / E-Commerce	19409	10137	4539	4733	20501	-1092
+Mar 2025	2025	Q1	Latin America	Hardware	Partner Network	40306	26943	9718	3645	38887	1419
+Mar 2025	2025	Q1	Latin America	Enterprise Software	Partner Network	54800	16886	11333	26581	58987	-4187
+Mar 2025	2025	Q1	Latin America	Cloud Services	Partner Network	77682	25821	19316	32545	74364	3318
+Mar 2025	2025	Q1	Latin America	Consumer Electronics	Partner Network	29340	22246	5985	1109	27195	2145
+Mar 2025	2025	Q1	Latin America	Accessories	Partner Network	19847	9500	3822	6525	20994	-1147
+Mar 2025	2025	Q1	Middle East & Africa	Hardware	Enterprise Direct	34220	20992	8270	4958	35262	-1042
+Mar 2025	2025	Q1	Middle East & Africa	Enterprise Software	Enterprise Direct	44228	13662	10235	20331	42241	1987
+Mar 2025	2025	Q1	Middle East & Africa	Cloud Services	Enterprise Direct	77881	28444	15822	33615	72341	5540
+Mar 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Enterprise Direct	33207	23163	6420	3624	32157	1050
+Mar 2025	2025	Q1	Middle East & Africa	Accessories	Enterprise Direct	15897	7383	3309	5205	14670	1227
+Mar 2025	2025	Q1	Middle East & Africa	Hardware	Retail Stores	32238	20445	6159	5634	30601	1637
+Mar 2025	2025	Q1	Middle East & Africa	Enterprise Software	Retail Stores	48214	11639	9689	26886	49917	-1703
+Mar 2025	2025	Q1	Middle East & Africa	Cloud Services	Retail Stores	60097	19508	14017	26572	60603	-506
+Mar 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Retail Stores	28423	20967	6343	1113	26514	1909
+Mar 2025	2025	Q1	Middle East & Africa	Accessories	Retail Stores	18510	9333	3606	5571	19314	-804
+Mar 2025	2025	Q1	Middle East & Africa	Hardware	Online / E-Commerce	37787	23293	8929	5565	40450	-2663
+Mar 2025	2025	Q1	Middle East & Africa	Enterprise Software	Online / E-Commerce	44800	13517	11040	20243	42847	1953
+Mar 2025	2025	Q1	Middle East & Africa	Cloud Services	Online / E-Commerce	75989	29274	15475	31240	81793	-5804
+Mar 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Online / E-Commerce	35565	24831	8843	1891	37803	-2238
+Mar 2025	2025	Q1	Middle East & Africa	Accessories	Online / E-Commerce	15941	8579	3883	3479	16542	-601
+Mar 2025	2025	Q1	Middle East & Africa	Hardware	Partner Network	42527	28981	9958	3588	40241	2286
+Mar 2025	2025	Q1	Middle East & Africa	Enterprise Software	Partner Network	57302	17125	11452	28725	60445	-3143
+Mar 2025	2025	Q1	Middle East & Africa	Cloud Services	Partner Network	75237	24311	18100	32826	77544	-2307
+Mar 2025	2025	Q1	Middle East & Africa	Consumer Electronics	Partner Network	28248	21113	6539	596	29096	-848
+Mar 2025	2025	Q1	Middle East & Africa	Accessories	Partner Network	19145	9866	4428	4851	18054	1091
+Apr 2025	2025	Q2	North America	Hardware	Enterprise Direct	68844	45782	13675	9387	72784	-3940
+Apr 2025	2025	Q2	North America	Enterprise Software	Enterprise Direct	94744	23829	22877	48038	96057	-1313
+Apr 2025	2025	Q2	North America	Cloud Services	Enterprise Direct	109830	41583	24733	43514	103675	6155
+Apr 2025	2025	Q2	North America	Consumer Electronics	Enterprise Direct	60872	44250	12113	4509	63082	-2210
+Apr 2025	2025	Q2	North America	Accessories	Enterprise Direct	31170	14712	7282	9176	33430	-2260
+Apr 2025	2025	Q2	North America	Hardware	Retail Stores	58260	38927	14401	4932	58600	-340
+Apr 2025	2025	Q2	North America	Enterprise Software	Retail Stores	95800	30296	21286	44218	94681	1119
+Apr 2025	2025	Q2	North America	Cloud Services	Retail Stores	139681	49296	30118	60267	140846	-1165
+Apr 2025	2025	Q2	North America	Consumer Electronics	Retail Stores	55575	39690	12400	3485	56988	-1413
+Apr 2025	2025	Q2	North America	Accessories	Retail Stores	29715	14981	6821	7913	29155	560
+Apr 2025	2025	Q2	North America	Hardware	Online / E-Commerce	66118	43817	14079	8222	65664	454
+Apr 2025	2025	Q2	North America	Enterprise Software	Online / E-Commerce	93969	25426	20431	48112	100847	-6878
+Apr 2025	2025	Q2	North America	Cloud Services	Online / E-Commerce	118624	41111	29353	48160	109181	9443
+Apr 2025	2025	Q2	North America	Consumer Electronics	Online / E-Commerce	54266	41057	10319	2890	56461	-2195
+Apr 2025	2025	Q2	North America	Accessories	Online / E-Commerce	34549	15899	8125	10525	35213	-664
+Apr 2025	2025	Q2	North America	Hardware	Partner Network	55383	37119	12583	5681	59511	-4128
+Apr 2025	2025	Q2	North America	Enterprise Software	Partner Network	96495	27945	23926	44624	91044	5451
+Apr 2025	2025	Q2	North America	Cloud Services	Partner Network	127395	49336	25328	52731	131961	-4566
+Apr 2025	2025	Q2	North America	Consumer Electronics	Partner Network	62657	43343	14627	4687	66784	-4127
+Apr 2025	2025	Q2	North America	Accessories	Partner Network	27162	14068	6647	6447	25159	2003
+Apr 2025	2025	Q2	Europe	Hardware	Enterprise Direct	54587	37279	10500	6808	57875	-3288
+Apr 2025	2025	Q2	Europe	Enterprise Software	Enterprise Direct	79178	19250	19207	40721	84803	-5625
+Apr 2025	2025	Q2	Europe	Cloud Services	Enterprise Direct	83257	31647	20535	31075	82376	881
+Apr 2025	2025	Q2	Europe	Consumer Electronics	Enterprise Direct	48071	36319	10385	1367	49675	-1604
+Apr 2025	2025	Q2	Europe	Accessories	Enterprise Direct	27050	13382	6289	7379	27572	-522
+Apr 2025	2025	Q2	Europe	Hardware	Retail Stores	50135	33424	11393	5318	48079	2056
+Apr 2025	2025	Q2	Europe	Enterprise Software	Retail Stores	74882	21690	15323	37869	72941	1941
+Apr 2025	2025	Q2	Europe	Cloud Services	Retail Stores	100115	32988	21052	46075	107338	-7223
+Apr 2025	2025	Q2	Europe	Consumer Electronics	Retail Stores	39872	28191	9851	1830	37326	2546
+Apr 2025	2025	Q2	Europe	Accessories	Retail Stores	22710	12174	4452	6084	22191	519
+Apr 2025	2025	Q2	Europe	Hardware	Online / E-Commerce	58069	35891	12277	9901	59787	-1718
+Apr 2025	2025	Q2	Europe	Enterprise Software	Online / E-Commerce	62034	16660	14336	31038	65216	-3182
+Apr 2025	2025	Q2	Europe	Cloud Services	Online / E-Commerce	92474	33734	22123	36617	91452	1022
+Apr 2025	2025	Q2	Europe	Consumer Electronics	Online / E-Commerce	45589	33993	9841	1755	45990	-401
+Apr 2025	2025	Q2	Europe	Accessories	Online / E-Commerce	26166	12938	5843	7385	27461	-1295
+Apr 2025	2025	Q2	Europe	Hardware	Partner Network	50090	32779	11949	5362	52179	-2089
+Apr 2025	2025	Q2	Europe	Enterprise Software	Partner Network	71636	21831	16880	32925	72338	-702
+Apr 2025	2025	Q2	Europe	Cloud Services	Partner Network	105583	39155	23616	42812	105966	-383
+Apr 2025	2025	Q2	Europe	Consumer Electronics	Partner Network	46570	33758	10309	2503	47073	-503
+Apr 2025	2025	Q2	Europe	Accessories	Partner Network	24308	12198	5446	6664	24716	-408
+Apr 2025	2025	Q2	Asia-Pacific	Hardware	Enterprise Direct	37453	24547	8475	4431	39792	-2339
+Apr 2025	2025	Q2	Asia-Pacific	Enterprise Software	Enterprise Direct	52290	15080	12729	24481	52576	-286
+Apr 2025	2025	Q2	Asia-Pacific	Cloud Services	Enterprise Direct	72476	27630	16093	28753	70520	1956
+Apr 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Enterprise Direct	35093	25363	7365	2365	35083	10
+Apr 2025	2025	Q2	Asia-Pacific	Accessories	Enterprise Direct	17538	8532	3856	5150	16347	1191
+Apr 2025	2025	Q2	Asia-Pacific	Hardware	Retail Stores	35317	22951	6870	5496	33911	1406
+Apr 2025	2025	Q2	Asia-Pacific	Enterprise Software	Retail Stores	51225	12603	10505	28117	47149	4076
+Apr 2025	2025	Q2	Asia-Pacific	Cloud Services	Retail Stores	61319	20241	11660	29418	65005	-3686
+Apr 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Retail Stores	29068	19772	7050	2246	27089	1979
+Apr 2025	2025	Q2	Asia-Pacific	Accessories	Retail Stores	14770	7829	2872	4069	14136	634
+Apr 2025	2025	Q2	Asia-Pacific	Hardware	Online / E-Commerce	41393	25497	8440	7456	40677	716
+Apr 2025	2025	Q2	Asia-Pacific	Enterprise Software	Online / E-Commerce	44712	11560	9547	23605	41749	2963
+Apr 2025	2025	Q2	Asia-Pacific	Cloud Services	Online / E-Commerce	64614	22056	12610	29948	62036	2578
+Apr 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Online / E-Commerce	30395	20877	6232	3286	32076	-1681
+Apr 2025	2025	Q2	Asia-Pacific	Accessories	Online / E-Commerce	15203	7298	3660	4245	14620	583
+Apr 2025	2025	Q2	Asia-Pacific	Hardware	Partner Network	34417	23323	7077	4017	35460	-1043
+Apr 2025	2025	Q2	Asia-Pacific	Enterprise Software	Partner Network	56568	14754	13088	28726	57632	-1064
+Apr 2025	2025	Q2	Asia-Pacific	Cloud Services	Partner Network	65213	23813	14807	26593	62364	2849
+Apr 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Partner Network	33199	24215	6760	2224	33091	108
+Apr 2025	2025	Q2	Asia-Pacific	Accessories	Partner Network	17972	8593	3932	5447	18395	-423
+Apr 2025	2025	Q2	Latin America	Hardware	Enterprise Direct	34153	22144	7815	4194	32114	2039
+Apr 2025	2025	Q2	Latin America	Enterprise Software	Enterprise Direct	50941	14864	10067	26010	53791	-2850
+Apr 2025	2025	Q2	Latin America	Cloud Services	Enterprise Direct	73371	23490	17681	32200	76249	-2878
+Apr 2025	2025	Q2	Latin America	Consumer Electronics	Enterprise Direct	27897	20866	6548	483	28264	-367
+Apr 2025	2025	Q2	Latin America	Accessories	Enterprise Direct	19181	9967	4315	4899	19758	-577
+Apr 2025	2025	Q2	Latin America	Hardware	Retail Stores	39936	26221	9236	4479	40158	-222
+Apr 2025	2025	Q2	Latin America	Enterprise Software	Retail Stores	52518	15495	11663	25360	53533	-1015
+Apr 2025	2025	Q2	Latin America	Cloud Services	Retail Stores	74228	26186	16868	31174	74661	-433
+Apr 2025	2025	Q2	Latin America	Consumer Electronics	Retail Stores	31740	23160	7052	1528	34156	-2416
+Apr 2025	2025	Q2	Latin America	Accessories	Retail Stores	17989	9047	4471	4471	19163	-1174
+Apr 2025	2025	Q2	Latin America	Hardware	Online / E-Commerce	37607	25876	9194	2537	39450	-1843
+Apr 2025	2025	Q2	Latin America	Enterprise Software	Online / E-Commerce	58569	18310	13962	26297	62494	-3925
+Apr 2025	2025	Q2	Latin America	Cloud Services	Online / E-Commerce	78863	29534	19332	29997	73836	5027
+Apr 2025	2025	Q2	Latin America	Consumer Electronics	Online / E-Commerce	34300	25845	6726	1729	32231	2069
+Apr 2025	2025	Q2	Latin America	Accessories	Online / E-Commerce	19541	9148	3857	6536	19641	-100
+Apr 2025	2025	Q2	Latin America	Hardware	Partner Network	32754	20302	7269	5183	33342	-588
+Apr 2025	2025	Q2	Latin America	Enterprise Software	Partner Network	45456	12844	10306	22306	45199	257
+Apr 2025	2025	Q2	Latin America	Cloud Services	Partner Network	70938	25465	15456	30017	68794	2144
+Apr 2025	2025	Q2	Latin America	Consumer Electronics	Partner Network	32471	23287	6776	2408	33633	-1162
+Apr 2025	2025	Q2	Latin America	Accessories	Partner Network	17176	8328	4009	4839	16598	578
+Apr 2025	2025	Q2	Middle East & Africa	Hardware	Enterprise Direct	35092	23438	7278	4376	33725	1367
+Apr 2025	2025	Q2	Middle East & Africa	Enterprise Software	Enterprise Direct	54692	14394	11233	29065	54850	-158
+Apr 2025	2025	Q2	Middle East & Africa	Cloud Services	Enterprise Direct	65835	21760	14555	29520	68616	-2781
+Apr 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Enterprise Direct	29118	21007	6867	1244	31040	-1922
+Apr 2025	2025	Q2	Middle East & Africa	Accessories	Enterprise Direct	17454	9096	4272	4086	16581	873
+Apr 2025	2025	Q2	Middle East & Africa	Hardware	Retail Stores	40146	27420	8079	4647	40904	-758
+Apr 2025	2025	Q2	Middle East & Africa	Enterprise Software	Retail Stores	57595	14687	13079	29829	53604	3991
+Apr 2025	2025	Q2	Middle East & Africa	Cloud Services	Retail Stores	63679	22889	12355	28435	68287	-4608
+Apr 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Retail Stores	32526	22292	8038	2196	32372	154
+Apr 2025	2025	Q2	Middle East & Africa	Accessories	Retail Stores	15105	8099	3296	3710	16136	-1031
+Apr 2025	2025	Q2	Middle East & Africa	Hardware	Online / E-Commerce	42247	27361	10376	4510	41898	349
+Apr 2025	2025	Q2	Middle East & Africa	Enterprise Software	Online / E-Commerce	50798	15957	11018	23823	50087	711
+Apr 2025	2025	Q2	Middle East & Africa	Cloud Services	Online / E-Commerce	79258	27413	17021	34824	73202	6056
+Apr 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Online / E-Commerce	30927	22051	5918	2958	31389	-462
+Apr 2025	2025	Q2	Middle East & Africa	Accessories	Online / E-Commerce	16905	7807	3814	5284	16666	239
+Apr 2025	2025	Q2	Middle East & Africa	Hardware	Partner Network	31870	20954	6842	4074	29384	2486
+Apr 2025	2025	Q2	Middle East & Africa	Enterprise Software	Partner Network	52689	14380	10051	28258	56655	-3966
+Apr 2025	2025	Q2	Middle East & Africa	Cloud Services	Partner Network	68402	21273	16979	30150	71823	-3421
+Apr 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Partner Network	26820	20320	6403	97	26386	434
+Apr 2025	2025	Q2	Middle East & Africa	Accessories	Partner Network	19810	10400	4238	5172	19625	185
+May 2025	2025	Q2	North America	Hardware	Enterprise Direct	71206	45708	15416	10082	67339	3867
+May 2025	2025	Q2	North America	Enterprise Software	Enterprise Direct	86975	23947	17363	45665	89534	-2559
+May 2025	2025	Q2	North America	Cloud Services	Enterprise Direct	120812	39004	27911	53897	115618	5194
+May 2025	2025	Q2	North America	Consumer Electronics	Enterprise Direct	49376	36277	10067	3032	53227	-3851
+May 2025	2025	Q2	North America	Accessories	Enterprise Direct	32056	15339	7990	8727	33418	-1362
+May 2025	2025	Q2	North America	Hardware	Retail Stores	59852	41238	14121	4493	56107	3745
+May 2025	2025	Q2	North America	Enterprise Software	Retail Stores	102811	30972	20206	51633	99619	3192
+May 2025	2025	Q2	North America	Cloud Services	Retail Stores	132764	42313	27662	62789	140381	-7617
+May 2025	2025	Q2	North America	Consumer Electronics	Retail Stores	48523	34183	11719	2621	47770	753
+May 2025	2025	Q2	North America	Accessories	Retail Stores	28612	15127	6128	7357	26534	2078
+May 2025	2025	Q2	North America	Hardware	Online / E-Commerce	72103	46308	13899	11896	73920	-1817
+May 2025	2025	Q2	North America	Enterprise Software	Online / E-Commerce	87084	21222	19981	45881	85158	1926
+May 2025	2025	Q2	North America	Cloud Services	Online / E-Commerce	106226	38517	22489	45220	109967	-3741
+May 2025	2025	Q2	North America	Consumer Electronics	Online / E-Commerce	57570	40814	13426	3330	54405	3165
+May 2025	2025	Q2	North America	Accessories	Online / E-Commerce	29120	15073	5806	8241	28823	297
+May 2025	2025	Q2	North America	Hardware	Partner Network	69399	43201	15003	11195	66459	2940
+May 2025	2025	Q2	North America	Enterprise Software	Partner Network	80447	22116	16421	41910	74982	5465
+May 2025	2025	Q2	North America	Cloud Services	Partner Network	120619	39662	23464	57493	120836	-217
+May 2025	2025	Q2	North America	Consumer Electronics	Partner Network	50607	34718	11168	4721	48498	2109
+May 2025	2025	Q2	North America	Accessories	Partner Network	26511	13279	5418	7814	28093	-1582
+May 2025	2025	Q2	Europe	Hardware	Enterprise Direct	51323	32291	12439	6593	48403	2920
+May 2025	2025	Q2	Europe	Enterprise Software	Enterprise Direct	64967	20129	12906	31932	60336	4631
+May 2025	2025	Q2	Europe	Cloud Services	Enterprise Direct	107424	34542	20762	52120	111488	-4064
+May 2025	2025	Q2	Europe	Consumer Electronics	Enterprise Direct	38585	26406	9036	3143	40791	-2206
+May 2025	2025	Q2	Europe	Accessories	Enterprise Direct	20680	10731	4993	4956	19211	1469
+May 2025	2025	Q2	Europe	Hardware	Retail Stores	54778	37172	10592	7014	57667	-2889
+May 2025	2025	Q2	Europe	Enterprise Software	Retail Stores	78029	19077	18710	40242	75263	2766
+May 2025	2025	Q2	Europe	Cloud Services	Retail Stores	83748	31520	17311	34917	78204	5544
+May 2025	2025	Q2	Europe	Consumer Electronics	Retail Stores	47464	33333	9264	4867	49593	-2129
+May 2025	2025	Q2	Europe	Accessories	Retail Stores	22283	10404	5277	6602	24045	-1762
+May 2025	2025	Q2	Europe	Hardware	Online / E-Commerce	44802	30126	11185	3491	47692	-2890
+May 2025	2025	Q2	Europe	Enterprise Software	Online / E-Commerce	76400	24412	18656	33332	75968	432
+May 2025	2025	Q2	Europe	Cloud Services	Online / E-Commerce	110939	42407	24172	44360	119617	-8678
+May 2025	2025	Q2	Europe	Consumer Electronics	Online / E-Commerce	48418	34724	12072	1622	49166	-748
+May 2025	2025	Q2	Europe	Accessories	Online / E-Commerce	23617	12732	5333	5552	23704	-87
+May 2025	2025	Q2	Europe	Hardware	Partner Network	58652	38577	12985	7090	57642	1010
+May 2025	2025	Q2	Europe	Enterprise Software	Partner Network	72516	20438	15485	36593	76231	-3715
+May 2025	2025	Q2	Europe	Cloud Services	Partner Network	97284	33212	23272	40800	98708	-1424
+May 2025	2025	Q2	Europe	Consumer Electronics	Partner Network	41798	31165	9425	1208	41333	465
+May 2025	2025	Q2	Europe	Accessories	Partner Network	26163	13273	5647	7243	25333	830
+May 2025	2025	Q2	Asia-Pacific	Hardware	Enterprise Direct	38221	24631	7954	5636	40306	-2085
+May 2025	2025	Q2	Asia-Pacific	Enterprise Software	Enterprise Direct	50183	13256	12067	24860	48883	1300
+May 2025	2025	Q2	Asia-Pacific	Cloud Services	Enterprise Direct	66089	24934	13898	27257	70423	-4334
+May 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Enterprise Direct	34627	24483	8469	1675	32957	1670
+May 2025	2025	Q2	Asia-Pacific	Accessories	Enterprise Direct	16517	8800	3335	4382	16725	-208
+May 2025	2025	Q2	Asia-Pacific	Hardware	Retail Stores	41774	26146	9387	6241	38976	2798
+May 2025	2025	Q2	Asia-Pacific	Enterprise Software	Retail Stores	46620	13347	9085	24188	49474	-2854
+May 2025	2025	Q2	Asia-Pacific	Cloud Services	Retail Stores	71924	22764	17474	31686	66595	5329
+May 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Retail Stores	27468	20618	5280	1570	25753	1715
+May 2025	2025	Q2	Asia-Pacific	Accessories	Retail Stores	19352	8959	3804	6589	19358	-6
+May 2025	2025	Q2	Asia-Pacific	Hardware	Online / E-Commerce	32032	19821	7051	5160	32277	-245
+May 2025	2025	Q2	Asia-Pacific	Enterprise Software	Online / E-Commerce	45253	12678	10085	22490	47552	-2299
+May 2025	2025	Q2	Asia-Pacific	Cloud Services	Online / E-Commerce	70307	24876	16807	28624	64835	5472
+May 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Online / E-Commerce	31863	23751	6080	2032	31967	-104
+May 2025	2025	Q2	Asia-Pacific	Accessories	Online / E-Commerce	19014	8767	4206	6041	19309	-295
+May 2025	2025	Q2	Asia-Pacific	Hardware	Partner Network	31772	20704	7175	3893	30248	1524
+May 2025	2025	Q2	Asia-Pacific	Enterprise Software	Partner Network	51567	14839	10417	26311	54186	-2619
+May 2025	2025	Q2	Asia-Pacific	Cloud Services	Partner Network	72313	23575	17286	31452	77340	-5027
+May 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Partner Network	28588	21309	7035	244	27239	1349
+May 2025	2025	Q2	Asia-Pacific	Accessories	Partner Network	19013	10167	3846	5000	20322	-1309
+May 2025	2025	Q2	Latin America	Hardware	Enterprise Direct	42049	26340	10336	5373	39208	2841
+May 2025	2025	Q2	Latin America	Enterprise Software	Enterprise Direct	46719	14689	9095	22935	47106	-387
+May 2025	2025	Q2	Latin America	Cloud Services	Enterprise Direct	79335	25087	17700	36548	82951	-3616
+May 2025	2025	Q2	Latin America	Consumer Electronics	Enterprise Direct	27434	19866	6504	1064	27643	-209
+May 2025	2025	Q2	Latin America	Accessories	Enterprise Direct	17630	9217	3929	4484	17443	187
+May 2025	2025	Q2	Latin America	Hardware	Retail Stores	40379	26400	8723	5256	42324	-1945
+May 2025	2025	Q2	Latin America	Enterprise Software	Retail Stores	51984	14281	12375	25328	55319	-3335
+May 2025	2025	Q2	Latin America	Cloud Services	Retail Stores	68873	25764	16809	26300	68931	-58
+May 2025	2025	Q2	Latin America	Consumer Electronics	Retail Stores	34250	25759	7546	945	36726	-2476
+May 2025	2025	Q2	Latin America	Accessories	Retail Stores	19448	9732	4806	4910	19157	291
+May 2025	2025	Q2	Latin America	Hardware	Online / E-Commerce	37259	25565	7988	3706	34661	2598
+May 2025	2025	Q2	Latin America	Enterprise Software	Online / E-Commerce	58200	15861	11282	31057	54723	3477
+May 2025	2025	Q2	Latin America	Cloud Services	Online / E-Commerce	68298	21523	13495	33280	70656	-2358
+May 2025	2025	Q2	Latin America	Consumer Electronics	Online / E-Commerce	27306	18845	6361	2100	28236	-930
+May 2025	2025	Q2	Latin America	Accessories	Online / E-Commerce	15415	7974	3588	3853	16272	-857
+May 2025	2025	Q2	Latin America	Hardware	Partner Network	39608	26419	9540	3649	42734	-3126
+May 2025	2025	Q2	Latin America	Enterprise Software	Partner Network	54525	16783	13609	24133	55205	-680
+May 2025	2025	Q2	Latin America	Cloud Services	Partner Network	77593	30219	17433	29941	74441	3152
+May 2025	2025	Q2	Latin America	Consumer Electronics	Partner Network	36062	26189	7384	2489	34695	1367
+May 2025	2025	Q2	Latin America	Accessories	Partner Network	17766	8522	3656	5588	18818	-1052
+May 2025	2025	Q2	Middle East & Africa	Hardware	Enterprise Direct	34367	21687	8324	4356	34315	52
+May 2025	2025	Q2	Middle East & Africa	Enterprise Software	Enterprise Direct	47610	14740	10447	22423	45293	2317
+May 2025	2025	Q2	Middle East & Africa	Cloud Services	Enterprise Direct	78066	27264	15750	35052	76730	1336
+May 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Enterprise Direct	31324	21791	6690	2843	33450	-2126
+May 2025	2025	Q2	Middle East & Africa	Accessories	Enterprise Direct	15776	7753	3872	4151	16750	-974
+May 2025	2025	Q2	Middle East & Africa	Hardware	Retail Stores	36006	24626	8755	2625	35874	132
+May 2025	2025	Q2	Middle East & Africa	Enterprise Software	Retail Stores	57775	17960	12631	27184	60815	-3040
+May 2025	2025	Q2	Middle East & Africa	Cloud Services	Retail Stores	78400	27297	18795	32308	83974	-5574
+May 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Retail Stores	31198	23283	7695	220	32786	-1588
+May 2025	2025	Q2	Middle East & Africa	Accessories	Retail Stores	19073	10215	4560	4298	18700	373
+May 2025	2025	Q2	Middle East & Africa	Hardware	Online / E-Commerce	42159	28476	8966	4717	41768	391
+May 2025	2025	Q2	Middle East & Africa	Enterprise Software	Online / E-Commerce	56145	15172	12157	28816	59255	-3110
+May 2025	2025	Q2	Middle East & Africa	Cloud Services	Online / E-Commerce	67691	23378	16298	28015	64503	3188
+May 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Online / E-Commerce	30867	23079	6246	1542	28536	2331
+May 2025	2025	Q2	Middle East & Africa	Accessories	Online / E-Commerce	19163	9130	3673	6360	18928	235
+May 2025	2025	Q2	Middle East & Africa	Hardware	Partner Network	33916	20765	7305	5846	33421	495
+May 2025	2025	Q2	Middle East & Africa	Enterprise Software	Partner Network	43996	12049	9439	22508	44085	-89
+May 2025	2025	Q2	Middle East & Africa	Cloud Services	Partner Network	68649	23527	15155	29967	74138	-5489
+May 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Partner Network	30554	22030	7638	886	30518	36
+May 2025	2025	Q2	Middle East & Africa	Accessories	Partner Network	17426	9410	3826	4190	16217	1209
+Jun 2025	2025	Q2	North America	Hardware	Enterprise Direct	74860	48615	14521	11724	71635	3225
+Jun 2025	2025	Q2	North America	Enterprise Software	Enterprise Direct	89495	21954	18243	49298	85019	4476
+Jun 2025	2025	Q2	North America	Cloud Services	Enterprise Direct	106970	35135	21527	50308	99959	7011
+Jun 2025	2025	Q2	North America	Consumer Electronics	Enterprise Direct	50532	35119	9875	5538	46767	3765
+Jun 2025	2025	Q2	North America	Accessories	Enterprise Direct	27531	12863	5288	9380	26051	1480
+Jun 2025	2025	Q2	North America	Hardware	Retail Stores	57099	34987	11411	10701	55033	2066
+Jun 2025	2025	Q2	North America	Enterprise Software	Retail Stores	77164	19532	15929	41703	72766	4398
+Jun 2025	2025	Q2	North America	Cloud Services	Retail Stores	110573	36700	21963	51910	112008	-1435
+Jun 2025	2025	Q2	North America	Consumer Electronics	Retail Stores	51244	35435	11523	4286	49585	1659
+Jun 2025	2025	Q2	North America	Accessories	Retail Stores	27134	13743	5640	7751	27426	-292
+Jun 2025	2025	Q2	North America	Hardware	Online / E-Commerce	66684	42265	14940	9479	64239	2445
+Jun 2025	2025	Q2	North America	Enterprise Software	Online / E-Commerce	84249	24044	17376	42829	81211	3038
+Jun 2025	2025	Q2	North America	Cloud Services	Online / E-Commerce	125452	41608	25903	57941	134177	-8725
+Jun 2025	2025	Q2	North America	Consumer Electronics	Online / E-Commerce	51194	35937	12598	2659	48722	2472
+Jun 2025	2025	Q2	North America	Accessories	Online / E-Commerce	28326	15148	5719	7459	26400	1926
+Jun 2025	2025	Q2	North America	Hardware	Partner Network	73589	46056	14314	13219	68109	5480
+Jun 2025	2025	Q2	North America	Enterprise Software	Partner Network	81571	20067	15668	45836	75582	5989
+Jun 2025	2025	Q2	North America	Cloud Services	Partner Network	107292	33558	20650	53084	112851	-5559
+Jun 2025	2025	Q2	North America	Consumer Electronics	Partner Network	47298	32318	11325	3655	50376	-3078
+Jun 2025	2025	Q2	North America	Accessories	Partner Network	26198	13778	6403	6017	26178	20
+Jun 2025	2025	Q2	Europe	Hardware	Enterprise Direct	56119	38303	12330	5486	53287	2832
+Jun 2025	2025	Q2	Europe	Enterprise Software	Enterprise Direct	79071	22110	15899	41062	83635	-4564
+Jun 2025	2025	Q2	Europe	Cloud Services	Enterprise Direct	96478	31333	23313	41832	99657	-3179
+Jun 2025	2025	Q2	Europe	Consumer Electronics	Enterprise Direct	39107	29286	9087	734	41611	-2504
+Jun 2025	2025	Q2	Europe	Accessories	Enterprise Direct	26453	13662	6455	6336	24570	1883
+Jun 2025	2025	Q2	Europe	Hardware	Retail Stores	54310	37040	10498	6772	53226	1084
+Jun 2025	2025	Q2	Europe	Enterprise Software	Retail Stores	78933	19291	16774	42868	75700	3233
+Jun 2025	2025	Q2	Europe	Cloud Services	Retail Stores	83719	28466	17132	38121	88417	-4698
+Jun 2025	2025	Q2	Europe	Consumer Electronics	Retail Stores	41576	29083	10022	2471	39110	2466
+Jun 2025	2025	Q2	Europe	Accessories	Retail Stores	22037	11637	4358	6042	21278	759
+Jun 2025	2025	Q2	Europe	Hardware	Online / E-Commerce	56532	35070	11707	9755	53737	2795
+Jun 2025	2025	Q2	Europe	Enterprise Software	Online / E-Commerce	62637	16460	12619	33558	64256	-1619
+Jun 2025	2025	Q2	Europe	Cloud Services	Online / E-Commerce	90377	29398	20759	40220	95083	-4706
+Jun 2025	2025	Q2	Europe	Consumer Electronics	Online / E-Commerce	39189	28723	9387	1079	39393	-204
+Jun 2025	2025	Q2	Europe	Accessories	Online / E-Commerce	25027	13165	5555	6307	26706	-1679
+Jun 2025	2025	Q2	Europe	Hardware	Partner Network	56144	36640	13764	5740	55844	300
+Jun 2025	2025	Q2	Europe	Enterprise Software	Partner Network	71161	22312	15513	33336	66597	4564
+Jun 2025	2025	Q2	Europe	Cloud Services	Partner Network	108769	37779	21313	49677	111995	-3226
+Jun 2025	2025	Q2	Europe	Consumer Electronics	Partner Network	42761	29417	9883	3461	45395	-2634
+Jun 2025	2025	Q2	Europe	Accessories	Partner Network	20999	10811	5105	5083	21278	-279
+Jun 2025	2025	Q2	Asia-Pacific	Hardware	Enterprise Direct	39269	26734	8835	3700	41744	-2475
+Jun 2025	2025	Q2	Asia-Pacific	Enterprise Software	Enterprise Direct	57173	16388	13929	26856	57423	-250
+Jun 2025	2025	Q2	Asia-Pacific	Cloud Services	Enterprise Direct	72016	27475	15962	28579	70827	1189
+Jun 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Enterprise Direct	35126	25368	7510	2248	37791	-2665
+Jun 2025	2025	Q2	Asia-Pacific	Accessories	Enterprise Direct	17502	8607	4348	4547	18684	-1182
+Jun 2025	2025	Q2	Asia-Pacific	Hardware	Retail Stores	36049	24800	8844	2405	38128	-2079
+Jun 2025	2025	Q2	Asia-Pacific	Enterprise Software	Retail Stores	58545	18370	14146	26029	54525	4020
+Jun 2025	2025	Q2	Asia-Pacific	Cloud Services	Retail Stores	79166	29991	15378	33797	80172	-1006
+Jun 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Retail Stores	34811	23869	7824	3118	34197	614
+Jun 2025	2025	Q2	Asia-Pacific	Accessories	Retail Stores	15125	7659	3227	4239	15623	-498
+Jun 2025	2025	Q2	Asia-Pacific	Hardware	Online / E-Commerce	38087	24421	8849	4817	36816	1271
+Jun 2025	2025	Q2	Asia-Pacific	Enterprise Software	Online / E-Commerce	49558	14691	10283	24584	52876	-3318
+Jun 2025	2025	Q2	Asia-Pacific	Cloud Services	Online / E-Commerce	74601	24866	18285	31450	77000	-2399
+Jun 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Online / E-Commerce	29448	22188	6834	426	28841	607
+Jun 2025	2025	Q2	Asia-Pacific	Accessories	Online / E-Commerce	19540	10084	4148	5308	20790	-1250
+Jun 2025	2025	Q2	Asia-Pacific	Hardware	Partner Network	39443	25231	9623	4589	37587	1856
+Jun 2025	2025	Q2	Asia-Pacific	Enterprise Software	Partner Network	49271	15372	9970	23929	53171	-3900
+Jun 2025	2025	Q2	Asia-Pacific	Cloud Services	Partner Network	78693	25691	19648	33354	74323	4370
+Jun 2025	2025	Q2	Asia-Pacific	Consumer Electronics	Partner Network	28641	21755	5705	1181	27568	1073
+Jun 2025	2025	Q2	Asia-Pacific	Accessories	Partner Network	19936	9414	4106	6416	20933	-997
+Jun 2025	2025	Q2	Latin America	Hardware	Enterprise Direct	33326	21038	7957	4331	34948	-1622
+Jun 2025	2025	Q2	Latin America	Enterprise Software	Enterprise Direct	47655	14535	11354	21766	46716	939
+Jun 2025	2025	Q2	Latin America	Cloud Services	Enterprise Direct	76855	28770	16340	31745	71767	5088
+Jun 2025	2025	Q2	Latin America	Consumer Electronics	Enterprise Direct	34281	24345	6691	3245	36624	-2343
+Jun 2025	2025	Q2	Latin America	Accessories	Enterprise Direct	16719	7806	4107	4806	17405	-686
+Jun 2025	2025	Q2	Latin America	Hardware	Retail Stores	32582	22292	7669	2621	32202	380
+Jun 2025	2025	Q2	Latin America	Enterprise Software	Retail Stores	57821	17376	12468	27977	61426	-3605
+Jun 2025	2025	Q2	Latin America	Cloud Services	Retail Stores	75673	26044	18418	31211	76126	-453
+Jun 2025	2025	Q2	Latin America	Consumer Electronics	Retail Stores	30727	23081	6829	817	30897	-170
+Jun 2025	2025	Q2	Latin America	Accessories	Retail Stores	19390	9753	4306	5331	18141	1249
+Jun 2025	2025	Q2	Latin America	Hardware	Online / E-Commerce	37617	24555	7367	5695	40192	-2575
+Jun 2025	2025	Q2	Latin America	Enterprise Software	Online / E-Commerce	51786	12833	12722	26231	48088	3698
+Jun 2025	2025	Q2	Latin America	Cloud Services	Online / E-Commerce	61783	23739	11938	26106	62741	-958
+Jun 2025	2025	Q2	Latin America	Consumer Electronics	Online / E-Commerce	35445	24255	8004	3186	37238	-1793
+Jun 2025	2025	Q2	Latin America	Accessories	Online / E-Commerce	15036	7635	3593	3808	13907	1129
+Jun 2025	2025	Q2	Latin America	Hardware	Partner Network	38282	25852	7344	5086	37254	1028
+Jun 2025	2025	Q2	Latin America	Enterprise Software	Partner Network	56114	13605	11780	30729	56534	-420
+Jun 2025	2025	Q2	Latin America	Cloud Services	Partner Network	60373	20320	13451	26602	60424	-51
+Jun 2025	2025	Q2	Latin America	Consumer Electronics	Partner Network	29832	21591	6573	1668	28995	837
+Jun 2025	2025	Q2	Latin America	Accessories	Partner Network	17604	8809	3688	5107	18871	-1267
+Jun 2025	2025	Q2	Middle East & Africa	Hardware	Enterprise Direct	37259	23696	9202	4361	39257	-1998
+Jun 2025	2025	Q2	Middle East & Africa	Enterprise Software	Enterprise Direct	48559	15343	11660	21556	48336	223
+Jun 2025	2025	Q2	Middle East & Africa	Cloud Services	Enterprise Direct	79745	30049	17407	32289	84656	-4911
+Jun 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Enterprise Direct	34573	24813	8404	1356	33415	1158
+Jun 2025	2025	Q2	Middle East & Africa	Accessories	Enterprise Direct	17211	9135	3570	4506	16254	957
+Jun 2025	2025	Q2	Middle East & Africa	Hardware	Retail Stores	41495	26277	8263	6955	39151	2344
+Jun 2025	2025	Q2	Middle East & Africa	Enterprise Software	Retail Stores	48033	12114	9550	26369	46972	1061
+Jun 2025	2025	Q2	Middle East & Africa	Cloud Services	Retail Stores	62939	20251	13325	29363	67336	-4397
+Jun 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Retail Stores	28086	19912	6915	1259	29674	-1588
+Jun 2025	2025	Q2	Middle East & Africa	Accessories	Retail Stores	16641	8902	4014	3725	17704	-1063
+Jun 2025	2025	Q2	Middle East & Africa	Hardware	Online / E-Commerce	42073	28537	10264	3272	39556	2517
+Jun 2025	2025	Q2	Middle East & Africa	Enterprise Software	Online / E-Commerce	56688	17684	11200	27804	57576	-888
+Jun 2025	2025	Q2	Middle East & Africa	Cloud Services	Online / E-Commerce	78686	25187	17773	35726	82591	-3905
+Jun 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Online / E-Commerce	27890	20299	6655	936	29561	-1671
+Jun 2025	2025	Q2	Middle East & Africa	Accessories	Online / E-Commerce	17870	9378	4333	4159	17018	852
+Jun 2025	2025	Q2	Middle East & Africa	Hardware	Partner Network	40662	27649	8219	4794	40691	-29
+Jun 2025	2025	Q2	Middle East & Africa	Enterprise Software	Partner Network	57012	14605	12558	29849	58014	-1002
+Jun 2025	2025	Q2	Middle East & Africa	Cloud Services	Partner Network	63988	22419	14499	27070	61232	2756
+Jun 2025	2025	Q2	Middle East & Africa	Consumer Electronics	Partner Network	31455	22924	6412	2119	33175	-1720
+Jun 2025	2025	Q2	Middle East & Africa	Accessories	Partner Network	17932	8580	4313	5039	17470	462
+Jul 2025	2025	Q3	North America	Hardware	Enterprise Direct	59843	40534	12587	6722	56213	3630
+Jul 2025	2025	Q3	North America	Enterprise Software	Enterprise Direct	98889	26414	19506	52969	94446	4443
+Jul 2025	2025	Q3	North America	Cloud Services	Enterprise Direct	117024	37409	23774	55841	118742	-1718
+Jul 2025	2025	Q3	North America	Consumer Electronics	Enterprise Direct	48721	33985	10987	3749	48437	284
+Jul 2025	2025	Q3	North America	Accessories	Enterprise Direct	27821	14115	6060	7646	25834	1987
+Jul 2025	2025	Q3	North America	Hardware	Retail Stores	66892	43285	12924	10683	66045	847
+Jul 2025	2025	Q3	North America	Enterprise Software	Retail Stores	88713	21671	19095	47947	87162	1551
+Jul 2025	2025	Q3	North America	Cloud Services	Retail Stores	106497	36599	22731	47167	102152	4345
+Jul 2025	2025	Q3	North America	Consumer Electronics	Retail Stores	53668	38172	10986	4510	51446	2222
+Jul 2025	2025	Q3	North America	Accessories	Retail Stores	29384	14093	6008	9283	31419	-2035
+Jul 2025	2025	Q3	North America	Hardware	Online / E-Commerce	60119	37833	14788	7498	63517	-3398
+Jul 2025	2025	Q3	North America	Enterprise Software	Online / E-Commerce	82732	26030	19954	36748	87180	-4448
+Jul 2025	2025	Q3	North America	Cloud Services	Online / E-Commerce	138936	52554	33367	53015	148922	-9986
+Jul 2025	2025	Q3	North America	Consumer Electronics	Online / E-Commerce	60799	45409	15014	376	59146	1653
+Jul 2025	2025	Q3	North America	Accessories	Online / E-Commerce	33442	17923	7016	8503	32849	593
+Jul 2025	2025	Q3	North America	Hardware	Partner Network	73873	47013	15761	11099	73946	-73
+Jul 2025	2025	Q3	North America	Enterprise Software	Partner Network	85121	23079	18758	43284	82597	2524
+Jul 2025	2025	Q3	North America	Cloud Services	Partner Network	118879	41667	24831	52381	111778	7101
+Jul 2025	2025	Q3	North America	Consumer Electronics	Partner Network	55076	38838	10883	5355	54032	1044
+Jul 2025	2025	Q3	North America	Accessories	Partner Network	28691	13489	6108	9094	30698	-2007
+Jul 2025	2025	Q3	Europe	Hardware	Enterprise Direct	45421	29093	11184	5144	48531	-3110
+Jul 2025	2025	Q3	Europe	Enterprise Software	Enterprise Direct	67967	21409	16698	29860	65321	2646
+Jul 2025	2025	Q3	Europe	Cloud Services	Enterprise Direct	109292	41993	22449	44850	112263	-2971
+Jul 2025	2025	Q3	Europe	Consumer Electronics	Enterprise Direct	48738	34143	11219	3376	47546	1192
+Jul 2025	2025	Q3	Europe	Accessories	Enterprise Direct	22127	11364	4665	6098	21980	147
+Jul 2025	2025	Q3	Europe	Hardware	Retail Stores	53758	34285	11693	7780	52745	1013
+Jul 2025	2025	Q3	Europe	Enterprise Software	Retail Stores	67241	18605	14318	34318	65889	1352
+Jul 2025	2025	Q3	Europe	Cloud Services	Retail Stores	95416	32496	20272	42648	95155	261
+Jul 2025	2025	Q3	Europe	Consumer Electronics	Retail Stores	41667	29581	9124	2962	40226	1441
+Jul 2025	2025	Q3	Europe	Accessories	Retail Stores	22970	11454	4756	6760	24450	-1480
+Jul 2025	2025	Q3	Europe	Hardware	Online / E-Commerce	50887	32197	12425	6265	50400	487
+Jul 2025	2025	Q3	Europe	Enterprise Software	Online / E-Commerce	65905	20577	14263	31065	70814	-4909
+Jul 2025	2025	Q3	Europe	Cloud Services	Online / E-Commerce	108291	37384	26849	44058	116700	-8409
+Jul 2025	2025	Q3	Europe	Consumer Electronics	Online / E-Commerce	42418	32121	10567	-270	40720	1698
+Jul 2025	2025	Q3	Europe	Accessories	Online / E-Commerce	27204	14658	5576	6970	26059	1145
+Jul 2025	2025	Q3	Europe	Hardware	Partner Network	58597	36915	11966	9716	55061	3536
+Jul 2025	2025	Q3	Europe	Enterprise Software	Partner Network	65183	16879	12865	35439	64983	200
+Jul 2025	2025	Q3	Europe	Cloud Services	Partner Network	88991	28462	19476	41053	93366	-4375
+Jul 2025	2025	Q3	Europe	Consumer Electronics	Partner Network	38306	27522	9133	1651	40446	-2140
+Jul 2025	2025	Q3	Europe	Accessories	Partner Network	23733	12450	5719	5564	22911	822
+Jul 2025	2025	Q3	Asia-Pacific	Hardware	Enterprise Direct	40629	27544	8411	4674	43822	-3193
+Jul 2025	2025	Q3	Asia-Pacific	Enterprise Software	Enterprise Direct	56623	14874	14126	27623	53597	3026
+Jul 2025	2025	Q3	Asia-Pacific	Cloud Services	Enterprise Direct	65704	25578	13138	26988	62036	3668
+Jul 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Enterprise Direct	36042	24987	7175	3880	37269	-1227
+Jul 2025	2025	Q3	Asia-Pacific	Accessories	Enterprise Direct	15620	7374	3636	4610	15123	497
+Jul 2025	2025	Q3	Asia-Pacific	Hardware	Retail Stores	33306	22216	6930	4160	32480	826
+Jul 2025	2025	Q3	Asia-Pacific	Enterprise Software	Retail Stores	54526	14400	11488	28638	50236	4290
+Jul 2025	2025	Q3	Asia-Pacific	Cloud Services	Retail Stores	66077	22307	12587	31183	71278	-5201
+Jul 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Retail Stores	29952	20387	7474	2091	31570	-1618
+Jul 2025	2025	Q3	Asia-Pacific	Accessories	Retail Stores	14799	7982	3556	3261	13625	1174
+Jul 2025	2025	Q3	Asia-Pacific	Hardware	Online / E-Commerce	42690	28902	8122	5666	44903	-2213
+Jul 2025	2025	Q3	Asia-Pacific	Enterprise Software	Online / E-Commerce	56446	13567	13515	29364	55581	865
+Jul 2025	2025	Q3	Asia-Pacific	Cloud Services	Online / E-Commerce	59818	22487	12816	24515	60652	-834
+Jul 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Online / E-Commerce	34467	24552	7763	2152	33731	736
+Jul 2025	2025	Q3	Asia-Pacific	Accessories	Online / E-Commerce	16861	8548	3574	4739	17228	-367
+Jul 2025	2025	Q3	Asia-Pacific	Hardware	Partner Network	38173	24405	8709	5059	40311	-2138
+Jul 2025	2025	Q3	Asia-Pacific	Enterprise Software	Partner Network	49202	14312	11858	23032	47767	1435
+Jul 2025	2025	Q3	Asia-Pacific	Cloud Services	Partner Network	73132	27644	15289	30199	67739	5393
+Jul 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Partner Network	34713	24487	6677	3549	35117	-404
+Jul 2025	2025	Q3	Asia-Pacific	Accessories	Partner Network	16411	7600	3682	5129	15576	835
+Jul 2025	2025	Q3	Latin America	Hardware	Enterprise Direct	32057	21024	6441	4592	31081	976
+Jul 2025	2025	Q3	Latin America	Enterprise Software	Enterprise Direct	52373	13332	10924	28117	50460	1913
+Jul 2025	2025	Q3	Latin America	Cloud Services	Enterprise Direct	63562	21279	13113	29170	61286	2276
+Jul 2025	2025	Q3	Latin America	Consumer Electronics	Enterprise Direct	29619	20785	6118	2716	29414	205
+Jul 2025	2025	Q3	Latin America	Accessories	Enterprise Direct	16171	7796	3516	4859	17243	-1072
+Jul 2025	2025	Q3	Latin America	Hardware	Retail Stores	34702	22436	8497	3769	36078	-1376
+Jul 2025	2025	Q3	Latin America	Enterprise Software	Retail Stores	50590	15843	11882	22865	54372	-3782
+Jul 2025	2025	Q3	Latin America	Cloud Services	Retail Stores	79004	29218	19596	30190	81674	-2670
+Jul 2025	2025	Q3	Latin America	Consumer Electronics	Retail Stores	33749	25561	7853	335	31120	2629
+Jul 2025	2025	Q3	Latin America	Accessories	Retail Stores	19793	10231	3776	5786	19518	275
+Jul 2025	2025	Q3	Latin America	Hardware	Online / E-Commerce	39557	24171	8497	6889	38318	1239
+Jul 2025	2025	Q3	Latin America	Enterprise Software	Online / E-Commerce	43767	11951	9115	22701	41047	2720
+Jul 2025	2025	Q3	Latin America	Cloud Services	Online / E-Commerce	68439	22882	13462	32095	66087	2352
+Jul 2025	2025	Q3	Latin America	Consumer Electronics	Online / E-Commerce	29568	20370	6124	3074	31175	-1607
+Jul 2025	2025	Q3	Latin America	Accessories	Online / E-Commerce	15337	7405	3687	4245	15786	-449
+Jul 2025	2025	Q3	Latin America	Hardware	Partner Network	34803	23568	8039	3196	32419	2384
+Jul 2025	2025	Q3	Latin America	Enterprise Software	Partner Network	56477	16641	10974	28862	54471	2006
+Jul 2025	2025	Q3	Latin America	Cloud Services	Partner Network	74126	23405	15320	35401	78368	-4242
+Jul 2025	2025	Q3	Latin America	Consumer Electronics	Partner Network	27379	19227	6611	1541	26873	506
+Jul 2025	2025	Q3	Latin America	Accessories	Partner Network	16204	8566	3453	4185	15396	808
+Jul 2025	2025	Q3	Middle East & Africa	Hardware	Enterprise Direct	41192	26394	8292	6506	40908	284
+Jul 2025	2025	Q3	Middle East & Africa	Enterprise Software	Enterprise Direct	49478	12620	10757	26101	49711	-233
+Jul 2025	2025	Q3	Middle East & Africa	Cloud Services	Enterprise Direct	63697	22074	14126	27497	60693	3004
+Jul 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Enterprise Direct	31007	22398	6273	2336	29521	1486
+Jul 2025	2025	Q3	Middle East & Africa	Accessories	Enterprise Direct	17513	8344	3538	5631	18388	-875
+Jul 2025	2025	Q3	Middle East & Africa	Hardware	Retail Stores	33910	21229	8096	4585	32266	1644
+Jul 2025	2025	Q3	Middle East & Africa	Enterprise Software	Retail Stores	46648	14227	9414	23007	49501	-2853
+Jul 2025	2025	Q3	Middle East & Africa	Cloud Services	Retail Stores	76853	25035	18670	33148	75206	1647
+Jul 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Retail Stores	28557	21434	6053	1070	28662	-105
+Jul 2025	2025	Q3	Middle East & Africa	Accessories	Retail Stores	19351	9468	4284	5599	19282	69
+Jul 2025	2025	Q3	Middle East & Africa	Hardware	Online / E-Commerce	35706	23274	7808	4624	35545	161
+Jul 2025	2025	Q3	Middle East & Africa	Enterprise Software	Online / E-Commerce	51605	14358	11266	25981	50802	803
+Jul 2025	2025	Q3	Middle East & Africa	Cloud Services	Online / E-Commerce	69798	24272	14948	30578	66515	3283
+Jul 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Online / E-Commerce	31147	22184	6303	2660	29529	1618
+Jul 2025	2025	Q3	Middle East & Africa	Accessories	Online / E-Commerce	16854	8031	3380	5443	16554	300
+Jul 2025	2025	Q3	Middle East & Africa	Hardware	Partner Network	33920	21167	7236	5517	33158	762
+Jul 2025	2025	Q3	Middle East & Africa	Enterprise Software	Partner Network	46262	12541	9788	23933	48058	-1796
+Jul 2025	2025	Q3	Middle East & Africa	Cloud Services	Partner Network	67918	23009	15931	28978	70284	-2366
+Jul 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Partner Network	30090	22249	7013	828	29021	1069
+Jul 2025	2025	Q3	Middle East & Africa	Accessories	Partner Network	18624	9636	3849	5139	19022	-398
+Aug 2025	2025	Q3	North America	Hardware	Enterprise Direct	69353	43848	15814	9691	71110	-1757
+Aug 2025	2025	Q3	North America	Enterprise Software	Enterprise Direct	83721	24337	19214	40170	79573	4148
+Aug 2025	2025	Q3	North America	Cloud Services	Enterprise Direct	127896	46383	25761	55752	126328	1568
+Aug 2025	2025	Q3	North America	Consumer Electronics	Enterprise Direct	57584	40034	12404	5146	53490	4094
+Aug 2025	2025	Q3	North America	Accessories	Enterprise Direct	27558	13610	5328	8620	28042	-484
+Aug 2025	2025	Q3	North America	Hardware	Retail Stores	63604	39082	14412	10110	61637	1967
+Aug 2025	2025	Q3	North America	Enterprise Software	Retail Stores	77736	22449	16200	39087	80806	-3070
+Aug 2025	2025	Q3	North America	Cloud Services	Retail Stores	127015	42491	29825	54699	134535	-7520
+Aug 2025	2025	Q3	North America	Consumer Electronics	Retail Stores	51785	38308	12542	935	51387	398
+Aug 2025	2025	Q3	North America	Accessories	Retail Stores	32630	17281	7085	8264	34931	-2301
+Aug 2025	2025	Q3	North America	Hardware	Online / E-Commerce	72326	46734	17824	7768	69203	3123
+Aug 2025	2025	Q3	North America	Enterprise Software	Online / E-Commerce	88402	27869	18017	42516	82667	5735
+Aug 2025	2025	Q3	North America	Cloud Services	Online / E-Commerce	139225	45723	27243	66259	140168	-943
+Aug 2025	2025	Q3	North America	Consumer Electronics	Online / E-Commerce	50522	34737	11243	4542	50999	-477
+Aug 2025	2025	Q3	North America	Accessories	Online / E-Commerce	26685	13433	5965	7287	27219	-534
+Aug 2025	2025	Q3	North America	Hardware	Partner Network	65927	43164	14999	7764	62012	3915
+Aug 2025	2025	Q3	North America	Enterprise Software	Partner Network	91281	26473	18049	46759	86231	5050
+Aug 2025	2025	Q3	North America	Cloud Services	Partner Network	127584	40866	25422	61296	117446	10138
+Aug 2025	2025	Q3	North America	Consumer Electronics	Partner Network	48852	33822	9292	5738	46054	2798
+Aug 2025	2025	Q3	North America	Accessories	Partner Network	27229	12533	5406	9290	26208	1021
+Aug 2025	2025	Q3	Europe	Hardware	Enterprise Direct	43529	27047	8964	7518	44858	-1329
+Aug 2025	2025	Q3	Europe	Enterprise Software	Enterprise Direct	62905	16434	14560	31911	64609	-1704
+Aug 2025	2025	Q3	Europe	Cloud Services	Enterprise Direct	89824	32810	20674	36340	90564	-740
+Aug 2025	2025	Q3	Europe	Consumer Electronics	Enterprise Direct	45667	33499	10188	1980	48072	-2405
+Aug 2025	2025	Q3	Europe	Accessories	Enterprise Direct	25083	12645	6014	6424	26261	-1178
+Aug 2025	2025	Q3	Europe	Hardware	Retail Stores	51940	35129	12341	4470	48333	3607
+Aug 2025	2025	Q3	Europe	Enterprise Software	Retail Stores	77432	23499	15018	38915	74234	3198
+Aug 2025	2025	Q3	Europe	Cloud Services	Retail Stores	105122	33142	21499	50481	100073	5049
+Aug 2025	2025	Q3	Europe	Consumer Electronics	Retail Stores	37569	26274	7588	3707	34816	2753
+Aug 2025	2025	Q3	Europe	Accessories	Retail Stores	22021	10482	4240	7299	21475	546
+Aug 2025	2025	Q3	Europe	Hardware	Online / E-Commerce	46543	28548	9807	8188	43488	3055
+Aug 2025	2025	Q3	Europe	Enterprise Software	Online / E-Commerce	60792	16268	11878	32646	59200	1592
+Aug 2025	2025	Q3	Europe	Cloud Services	Online / E-Commerce	92125	29220	19363	43542	96134	-4009
+Aug 2025	2025	Q3	Europe	Consumer Electronics	Online / E-Commerce	37877	26776	8951	2150	38271	-394
+Aug 2025	2025	Q3	Europe	Accessories	Online / E-Commerce	22698	11843	5082	5773	24293	-1595
+Aug 2025	2025	Q3	Europe	Hardware	Partner Network	55323	36248	13629	5446	57113	-1790
+Aug 2025	2025	Q3	Europe	Enterprise Software	Partner Network	71849	22642	16679	32528	68496	3353
+Aug 2025	2025	Q3	Europe	Cloud Services	Partner Network	109347	40040	22143	47164	117774	-8427
+Aug 2025	2025	Q3	Europe	Consumer Electronics	Partner Network	45814	31917	11403	2494	42781	3033
+Aug 2025	2025	Q3	Europe	Accessories	Partner Network	21781	11730	4251	5800	20267	1514
+Aug 2025	2025	Q3	Asia-Pacific	Hardware	Enterprise Direct	42575	26265	8257	8053	43642	-1067
+Aug 2025	2025	Q3	Asia-Pacific	Enterprise Software	Enterprise Direct	44892	11009	10298	23585	48317	-3425
+Aug 2025	2025	Q3	Asia-Pacific	Cloud Services	Enterprise Direct	61107	22153	15192	23762	64240	-3133
+Aug 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Enterprise Direct	32889	24935	7868	86	31522	1367
+Aug 2025	2025	Q3	Asia-Pacific	Accessories	Enterprise Direct	19843	10430	4056	5357	21392	-1549
+Aug 2025	2025	Q3	Asia-Pacific	Hardware	Retail Stores	40776	25657	10165	4954	42398	-1622
+Aug 2025	2025	Q3	Asia-Pacific	Enterprise Software	Retail Stores	47258	15077	11102	21079	50176	-2918
+Aug 2025	2025	Q3	Asia-Pacific	Cloud Services	Retail Stores	80554	29796	19587	31171	75436	5118
+Aug 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Retail Stores	33757	25347	6622	1788	32373	1384
+Aug 2025	2025	Q3	Asia-Pacific	Accessories	Retail Stores	19370	9070	3964	6336	18710	660
+Aug 2025	2025	Q3	Asia-Pacific	Hardware	Online / E-Commerce	32769	20628	6790	5351	34471	-1702
+Aug 2025	2025	Q3	Asia-Pacific	Enterprise Software	Online / E-Commerce	47313	12441	11330	23542	44702	2611
+Aug 2025	2025	Q3	Asia-Pacific	Cloud Services	Online / E-Commerce	65777	24730	13110	27937	65628	149
+Aug 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Online / E-Commerce	34473	23869	7555	3049	36117	-1644
+Aug 2025	2025	Q3	Asia-Pacific	Accessories	Online / E-Commerce	15564	7764	3702	4098	15496	68
+Aug 2025	2025	Q3	Asia-Pacific	Hardware	Partner Network	37042	24960	8089	3993	37338	-296
+Aug 2025	2025	Q3	Asia-Pacific	Enterprise Software	Partner Network	55835	15512	12451	27872	52163	3672
+Aug 2025	2025	Q3	Asia-Pacific	Cloud Services	Partner Network	69694	24671	13614	31409	73180	-3486
+Aug 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Partner Network	31884	21908	7613	2363	30798	1086
+Aug 2025	2025	Q3	Asia-Pacific	Accessories	Partner Network	15219	7990	3154	4075	15188	31
+Aug 2025	2025	Q3	Latin America	Hardware	Enterprise Direct	40689	25755	8921	6013	43226	-2537
+Aug 2025	2025	Q3	Latin America	Enterprise Software	Enterprise Direct	47981	13386	11678	22917	47517	464
+Aug 2025	2025	Q3	Latin America	Cloud Services	Enterprise Direct	69999	26682	15146	28171	74119	-4120
+Aug 2025	2025	Q3	Latin America	Consumer Electronics	Enterprise Direct	35086	25092	8493	1501	35399	-313
+Aug 2025	2025	Q3	Latin America	Accessories	Enterprise Direct	17046	9025	3807	4214	16181	865
+Aug 2025	2025	Q3	Latin America	Hardware	Retail Stores	41306	27033	8301	5972	42173	-867
+Aug 2025	2025	Q3	Latin America	Enterprise Software	Retail Stores	52112	13269	11875	26968	53955	-1843
+Aug 2025	2025	Q3	Latin America	Cloud Services	Retail Stores	63581	22921	14831	25829	59316	4265
+Aug 2025	2025	Q3	Latin America	Consumer Electronics	Retail Stores	32650	24085	6362	2203	32888	-238
+Aug 2025	2025	Q3	Latin America	Accessories	Retail Stores	18511	8635	4123	5753	18335	176
+Aug 2025	2025	Q3	Latin America	Hardware	Online / E-Commerce	32521	21257	7039	4225	34758	-2237
+Aug 2025	2025	Q3	Latin America	Enterprise Software	Online / E-Commerce	51955	14301	12770	24884	49677	2278
+Aug 2025	2025	Q3	Latin America	Cloud Services	Online / E-Commerce	69017	26530	14049	28438	70666	-1649
+Aug 2025	2025	Q3	Latin America	Consumer Electronics	Online / E-Commerce	35465	24757	8120	2588	36217	-752
+Aug 2025	2025	Q3	Latin America	Accessories	Online / E-Commerce	15933	8157	3632	4144	16770	-837
+Aug 2025	2025	Q3	Latin America	Hardware	Partner Network	38866	25675	9316	3875	39865	-999
+Aug 2025	2025	Q3	Latin America	Enterprise Software	Partner Network	53291	16321	12238	24732	49315	3976
+Aug 2025	2025	Q3	Latin America	Cloud Services	Partner Network	77188	28008	14822	34358	77852	-664
+Aug 2025	2025	Q3	Latin America	Consumer Electronics	Partner Network	32928	22480	7350	3098	32233	695
+Aug 2025	2025	Q3	Latin America	Accessories	Partner Network	14931	7530	3167	4234	15880	-949
+Aug 2025	2025	Q3	Middle East & Africa	Hardware	Enterprise Direct	37800	24171	9217	4412	40187	-2387
+Aug 2025	2025	Q3	Middle East & Africa	Enterprise Software	Enterprise Direct	49225	15348	11995	21882	48990	235
+Aug 2025	2025	Q3	Middle East & Africa	Cloud Services	Enterprise Direct	78644	30008	17161	31475	83901	-5257
+Aug 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Enterprise Direct	35132	25211	8610	1311	34994	138
+Aug 2025	2025	Q3	Middle East & Africa	Accessories	Enterprise Direct	17205	9178	3760	4267	16595	610
+Aug 2025	2025	Q3	Middle East & Africa	Hardware	Retail Stores	41862	27128	8653	6081	39419	2443
+Aug 2025	2025	Q3	Middle East & Africa	Enterprise Software	Retail Stores	50877	13343	10080	27454	49286	1591
+Aug 2025	2025	Q3	Middle East & Africa	Cloud Services	Retail Stores	65592	21044	13661	30887	67935	-2343
+Aug 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Retail Stores	27977	19706	6530	1741	27185	792
+Aug 2025	2025	Q3	Middle East & Africa	Accessories	Retail Stores	16342	8463	3422	4457	16808	-466
+Aug 2025	2025	Q3	Middle East & Africa	Hardware	Online / E-Commerce	39691	25237	9156	5298	42265	-2574
+Aug 2025	2025	Q3	Middle East & Africa	Enterprise Software	Online / E-Commerce	48533	14281	11857	22395	46982	1551
+Aug 2025	2025	Q3	Middle East & Africa	Cloud Services	Online / E-Commerce	74020	28307	15397	30316	70954	3066
+Aug 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Online / E-Commerce	35233	24805	7204	3224	33926	1307
+Aug 2025	2025	Q3	Middle East & Africa	Accessories	Online / E-Commerce	16320	7822	3363	5135	16424	-104
+Aug 2025	2025	Q3	Middle East & Africa	Hardware	Partner Network	34311	21666	7631	5014	33155	1156
+Aug 2025	2025	Q3	Middle East & Africa	Enterprise Software	Partner Network	47689	13505	9889	24295	51207	-3518
+Aug 2025	2025	Q3	Middle East & Africa	Cloud Services	Partner Network	71107	23689	17610	29808	68639	2468
+Aug 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Partner Network	29428	22274	6091	1063	30420	-992
+Aug 2025	2025	Q3	Middle East & Africa	Accessories	Partner Network	19761	9538	4597	5626	18593	1168
+Sep 2025	2025	Q3	North America	Hardware	Enterprise Direct	60863	40587	12041	8235	62762	-1899
+Sep 2025	2025	Q3	North America	Enterprise Software	Enterprise Direct	95362	23882	22096	49384	90276	5086
+Sep 2025	2025	Q3	North America	Cloud Services	Enterprise Direct	109336	39974	21867	47495	104787	4549
+Sep 2025	2025	Q3	North America	Consumer Electronics	Enterprise Direct	58190	40345	11894	5951	54840	3350
+Sep 2025	2025	Q3	North America	Accessories	Enterprise Direct	27342	13102	5425	8815	27304	38
+Sep 2025	2025	Q3	North America	Hardware	Retail Stores	60021	37286	13173	9562	57092	2929
+Sep 2025	2025	Q3	North America	Enterprise Software	Retail Stores	80012	22348	16139	41525	85277	-5265
+Sep 2025	2025	Q3	North America	Cloud Services	Retail Stores	122647	39934	30009	52704	131488	-8841
+Sep 2025	2025	Q3	North America	Consumer Electronics	Retail Stores	49944	37603	12338	3	51639	-1695
+Sep 2025	2025	Q3	North America	Accessories	Retail Stores	34128	18294	7942	7892	35165	-1037
+Sep 2025	2025	Q3	North America	Hardware	Online / E-Commerce	73899	49288	17100	7511	78363	-4464
+Sep 2025	2025	Q3	North America	Enterprise Software	Online / E-Commerce	95400	28162	23149	44089	102719	-7319
+Sep 2025	2025	Q3	North America	Cloud Services	Online / E-Commerce	129975	49417	32334	48224	135555	-5580
+Sep 2025	2025	Q3	North America	Consumer Electronics	Online / E-Commerce	61200	46412	14449	339	62932	-1732
+Sep 2025	2025	Q3	North America	Accessories	Online / E-Commerce	34750	18121	8014	8615	33301	1449
+Sep 2025	2025	Q3	North America	Hardware	Partner Network	70340	46716	14375	9249	67229	3111
+Sep 2025	2025	Q3	North America	Enterprise Software	Partner Network	94452	24478	19213	50761	96026	-1574
+Sep 2025	2025	Q3	North America	Cloud Services	Partner Network	113355	37167	25647	50541	105781	7574
+Sep 2025	2025	Q3	North America	Consumer Electronics	Partner Network	50414	36718	9828	3868	47615	2799
+Sep 2025	2025	Q3	North America	Accessories	Partner Network	31329	14618	6240	10471	30704	625
+Sep 2025	2025	Q3	Europe	Hardware	Enterprise Direct	44741	27840	9508	7393	43253	1488
+Sep 2025	2025	Q3	Europe	Enterprise Software	Enterprise Direct	63138	17049	13103	32986	62033	1105
+Sep 2025	2025	Q3	Europe	Cloud Services	Enterprise Direct	93002	31005	19850	42147	96225	-3223
+Sep 2025	2025	Q3	Europe	Consumer Electronics	Enterprise Direct	40501	28806	9437	2258	43718	-3217
+Sep 2025	2025	Q3	Europe	Accessories	Enterprise Direct	23087	11944	5767	5376	22406	681
+Sep 2025	2025	Q3	Europe	Hardware	Retail Stores	54474	37571	11381	5522	56108	-1634
+Sep 2025	2025	Q3	Europe	Enterprise Software	Retail Stores	80968	21476	18724	40768	85927	-4959
+Sep 2025	2025	Q3	Europe	Cloud Services	Retail Stores	91269	33313	22176	35780	91895	-626
+Sep 2025	2025	Q3	Europe	Consumer Electronics	Retail Stores	45622	34245	10154	1223	46040	-418
+Sep 2025	2025	Q3	Europe	Accessories	Retail Stores	26611	13397	5946	7268	25273	1338
+Sep 2025	2025	Q3	Europe	Hardware	Online / E-Commerce	51807	33912	10420	7475	54066	-2259
+Sep 2025	2025	Q3	Europe	Enterprise Software	Online / E-Commerce	71684	18269	16943	36472	67507	4177
+Sep 2025	2025	Q3	Europe	Cloud Services	Online / E-Commerce	87505	32535	17339	37631	90008	-2503
+Sep 2025	2025	Q3	Europe	Consumer Electronics	Online / E-Commerce	46725	32281	10781	3663	50029	-3304
+Sep 2025	2025	Q3	Europe	Accessories	Online / E-Commerce	21262	10935	5241	5086	21013	249
+Sep 2025	2025	Q3	Europe	Hardware	Partner Network	53893	36936	11620	5337	54972	-1079
+Sep 2025	2025	Q3	Europe	Enterprise Software	Partner Network	79817	21881	18159	39777	81507	-1690
+Sep 2025	2025	Q3	Europe	Cloud Services	Partner Network	94493	34018	21539	38936	91555	2938
+Sep 2025	2025	Q3	Europe	Consumer Electronics	Partner Network	44814	32741	9337	2736	47841	-3027
+Sep 2025	2025	Q3	Europe	Accessories	Partner Network	24818	12023	6089	6706	23823	995
+Sep 2025	2025	Q3	Asia-Pacific	Hardware	Enterprise Direct	35032	23954	7180	3898	36840	-1808
+Sep 2025	2025	Q3	Asia-Pacific	Enterprise Software	Enterprise Direct	57744	15010	13821	28913	56450	1294
+Sep 2025	2025	Q3	Asia-Pacific	Cloud Services	Enterprise Direct	64982	24421	13750	26811	69763	-4781
+Sep 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Enterprise Direct	34454	24421	8531	1502	36602	-2148
+Sep 2025	2025	Q3	Asia-Pacific	Accessories	Enterprise Direct	16631	8927	4048	3656	16371	260
+Sep 2025	2025	Q3	Asia-Pacific	Hardware	Retail Stores	42332	28835	9065	4432	43093	-761
+Sep 2025	2025	Q3	Asia-Pacific	Enterprise Software	Retail Stores	57244	15580	12980	28684	56627	617
+Sep 2025	2025	Q3	Asia-Pacific	Cloud Services	Retail Stores	68204	24485	14729	28990	63198	5006
+Sep 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Retail Stores	32473	23206	6250	3017	34863	-2390
+Sep 2025	2025	Q3	Asia-Pacific	Accessories	Retail Stores	17009	7880	4211	4918	16510	499
+Sep 2025	2025	Q3	Asia-Pacific	Hardware	Online / E-Commerce	32080	22032	6705	3343	31168	912
+Sep 2025	2025	Q3	Asia-Pacific	Enterprise Software	Online / E-Commerce	58325	15476	12210	30639	57922	403
+Sep 2025	2025	Q3	Asia-Pacific	Cloud Services	Online / E-Commerce	66404	22297	14437	29670	63600	2804
+Sep 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Online / E-Commerce	29739	21309	6072	2358	31132	-1393
+Sep 2025	2025	Q3	Asia-Pacific	Accessories	Online / E-Commerce	17135	8206	4071	4858	15781	1354
+Sep 2025	2025	Q3	Asia-Pacific	Hardware	Partner Network	34255	23068	6521	4666	34596	-341
+Sep 2025	2025	Q3	Asia-Pacific	Enterprise Software	Partner Network	55755	13409	12475	29871	55901	-146
+Sep 2025	2025	Q3	Asia-Pacific	Cloud Services	Partner Network	59857	21248	13227	25382	62697	-2840
+Sep 2025	2025	Q3	Asia-Pacific	Consumer Electronics	Partner Network	32000	23082	7609	1309	30155	1845
+Sep 2025	2025	Q3	Asia-Pacific	Accessories	Partner Network	17445	9136	3461	4848	16432	1013
+Sep 2025	2025	Q3	Latin America	Hardware	Enterprise Direct	40509	25163	8030	7316	42956	-2447
+Sep 2025	2025	Q3	Latin America	Enterprise Software	Enterprise Direct	45712	11472	11092	23148	47311	-1599
+Sep 2025	2025	Q3	Latin America	Cloud Services	Enterprise Direct	62617	23807	14597	24213	58799	3818
+Sep 2025	2025	Q3	Latin America	Consumer Electronics	Enterprise Direct	34972	25792	6894	2286	35060	-88
+Sep 2025	2025	Q3	Latin America	Accessories	Enterprise Direct	18499	8685	4087	5727	18591	-92
+Sep 2025	2025	Q3	Latin America	Hardware	Retail Stores	32947	21457	7309	4181	30428	2519
+Sep 2025	2025	Q3	Latin America	Enterprise Software	Retail Stores	51494	14546	9852	27096	55149	-3655
+Sep 2025	2025	Q3	Latin America	Cloud Services	Retail Stores	70919	22110	17490	31319	65339	5580
+Sep 2025	2025	Q3	Latin America	Consumer Electronics	Retail Stores	26909	20329	5126	1454	27003	-94
+Sep 2025	2025	Q3	Latin America	Accessories	Retail Stores	19670	9061	4353	6256	20235	-565
+Sep 2025	2025	Q3	Latin America	Hardware	Online / E-Commerce	31712	20668	7318	3726	34148	-2436
+Sep 2025	2025	Q3	Latin America	Enterprise Software	Online / E-Commerce	51591	15186	12836	23569	49281	2310
+Sep 2025	2025	Q3	Latin America	Cloud Services	Online / E-Commerce	74051	28762	15048	30241	73385	666
+Sep 2025	2025	Q3	Latin America	Consumer Electronics	Online / E-Commerce	35938	25071	7785	3082	33760	2178
+Sep 2025	2025	Q3	Latin America	Accessories	Online / E-Commerce	15903	7880	3137	4886	15311	592
+Sep 2025	2025	Q3	Latin America	Hardware	Partner Network	36573	22664	7535	6374	36753	-180
+Sep 2025	2025	Q3	Latin America	Enterprise Software	Partner Network	45429	11874	10078	23477	42298	3131
+Sep 2025	2025	Q3	Latin America	Cloud Services	Partner Network	65361	23038	12690	29633	65392	-31
+Sep 2025	2025	Q3	Latin America	Consumer Electronics	Partner Network	31704	21734	6981	2989	31174	530
+Sep 2025	2025	Q3	Latin America	Accessories	Partner Network	15117	7562	3231	4324	14042	1075
+Sep 2025	2025	Q3	Middle East & Africa	Hardware	Enterprise Direct	37233	23890	7199	6144	36927	306
+Sep 2025	2025	Q3	Middle East & Africa	Enterprise Software	Enterprise Direct	49648	12136	10770	26742	49290	358
+Sep 2025	2025	Q3	Middle East & Africa	Cloud Services	Enterprise Direct	60899	21064	13233	26602	56029	4870
+Sep 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Enterprise Direct	30929	22157	5877	2895	28507	2422
+Sep 2025	2025	Q3	Middle East & Africa	Accessories	Enterprise Direct	17126	7878	3265	5983	15799	1327
+Sep 2025	2025	Q3	Middle East & Africa	Hardware	Retail Stores	31622	19316	6038	6268	34119	-2497
+Sep 2025	2025	Q3	Middle East & Africa	Enterprise Software	Retail Stores	43727	10549	10915	22263	41891	1836
+Sep 2025	2025	Q3	Middle East & Africa	Cloud Services	Retail Stores	60054	23390	12266	24398	63715	-3661
+Sep 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Retail Stores	36065	25210	8759	2096	34629	1436
+Sep 2025	2025	Q3	Middle East & Africa	Accessories	Retail Stores	15993	8484	3280	4229	15073	920
+Sep 2025	2025	Q3	Middle East & Africa	Hardware	Online / E-Commerce	41452	26118	8225	7109	43536	-2084
+Sep 2025	2025	Q3	Middle East & Africa	Enterprise Software	Online / E-Commerce	47426	11915	11328	24183	44730	2696
+Sep 2025	2025	Q3	Middle East & Africa	Cloud Services	Online / E-Commerce	62687	23516	12455	26716	60653	2034
+Sep 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Online / E-Commerce	34375	23773	7144	3458	36313	-1938
+Sep 2025	2025	Q3	Middle East & Africa	Accessories	Online / E-Commerce	15510	7503	3740	4267	14643	867
+Sep 2025	2025	Q3	Middle East & Africa	Hardware	Partner Network	34937	23694	6954	4289	32594	2343
+Sep 2025	2025	Q3	Middle East & Africa	Enterprise Software	Partner Network	56671	14284	11042	31345	58591	-1920
+Sep 2025	2025	Q3	Middle East & Africa	Cloud Services	Partner Network	62902	19906	14638	28358	66795	-3893
+Sep 2025	2025	Q3	Middle East & Africa	Consumer Electronics	Partner Network	27463	20239	6679	545	25675	1788
+Sep 2025	2025	Q3	Middle East & Africa	Accessories	Partner Network	18463	9803	3611	5049	19547	-1084
+Oct 2025	2025	Q4	North America	Hardware	Enterprise Direct	72655	44861	17584	10210	76657	-4002
+Oct 2025	2025	Q4	North America	Enterprise Software	Enterprise Direct	78745	24360	18951	35434	82790	-4045
+Oct 2025	2025	Q4	North America	Cloud Services	Enterprise Direct	136504	51536	32660	52308	138663	-2159
+Oct 2025	2025	Q4	North America	Consumer Electronics	Enterprise Direct	60651	45226	13703	1722	64641	-3990
+Oct 2025	2025	Q4	North America	Accessories	Enterprise Direct	33306	16916	8149	8241	32993	313
+Oct 2025	2025	Q4	North America	Hardware	Retail Stores	67031	45775	14510	6746	67742	-711
+Oct 2025	2025	Q4	North America	Enterprise Software	Retail Stores	100756	27737	22567	50452	105286	-4530
+Oct 2025	2025	Q4	North America	Cloud Services	Retail Stores	120796	42919	28612	49265	113385	7411
+Oct 2025	2025	Q4	North America	Consumer Electronics	Retail Stores	56066	41628	11045	3393	58149	-2083
+Oct 2025	2025	Q4	North America	Accessories	Retail Stores	32941	15460	7706	9775	32384	557
+Oct 2025	2025	Q4	North America	Hardware	Online / E-Commerce	57611	38517	12309	6785	53082	4529
+Oct 2025	2025	Q4	North America	Enterprise Software	Online / E-Commerce	95942	26053	18279	51610	102742	-6800
+Oct 2025	2025	Q4	North America	Cloud Services	Online / E-Commerce	119070	36994	29360	52716	120313	-1243
+Oct 2025	2025	Q4	North America	Consumer Electronics	Online / E-Commerce	46870	35407	10495	968	46809	61
+Oct 2025	2025	Q4	North America	Accessories	Online / E-Commerce	34417	17388	7555	9474	32807	1610
+Oct 2025	2025	Q4	North America	Hardware	Partner Network	66374	43100	13438	9836	65946	428
+Oct 2025	2025	Q4	North America	Enterprise Software	Partner Network	89473	22959	19467	47047	95032	-5559
+Oct 2025	2025	Q4	North America	Cloud Services	Partner Network	112178	38900	27293	45985	120010	-7832
+Oct 2025	2025	Q4	North America	Consumer Electronics	Partner Network	54308	40789	13370	149	57194	-2886
+Oct 2025	2025	Q4	North America	Accessories	Partner Network	33919	18144	8138	7637	36420	-2501
+Oct 2025	2025	Q4	Europe	Hardware	Enterprise Direct	57846	39137	14325	4384	57921	-75
+Oct 2025	2025	Q4	Europe	Enterprise Software	Enterprise Direct	77495	24555	17087	35853	75301	2194
+Oct 2025	2025	Q4	Europe	Cloud Services	Enterprise Direct	109973	38562	23026	48385	114500	-4527
+Oct 2025	2025	Q4	Europe	Consumer Electronics	Enterprise Direct	43298	30562	10194	2542	43790	-492
+Oct 2025	2025	Q4	Europe	Accessories	Enterprise Direct	22603	11767	5069	5767	23406	-803
+Oct 2025	2025	Q4	Europe	Hardware	Retail Stores	55098	36127	12855	6116	57491	-2393
+Oct 2025	2025	Q4	Europe	Enterprise Software	Retail Stores	71975	21431	17007	33537	75451	-3476
+Oct 2025	2025	Q4	Europe	Cloud Services	Retail Stores	103051	38306	24537	40208	103837	-786
+Oct 2025	2025	Q4	Europe	Consumer Electronics	Retail Stores	46711	34760	10410	1541	46596	115
+Oct 2025	2025	Q4	Europe	Accessories	Retail Stores	26031	13115	5703	7213	24572	1459
+Oct 2025	2025	Q4	Europe	Hardware	Online / E-Commerce	51882	33659	10324	7899	52396	-514
+Oct 2025	2025	Q4	Europe	Enterprise Software	Online / E-Commerce	70147	17675	15693	36779	66315	3832
+Oct 2025	2025	Q4	Europe	Cloud Services	Online / E-Commerce	86463	30691	17250	38522	83448	3015
+Oct 2025	2025	Q4	Europe	Consumer Electronics	Online / E-Commerce	43996	30475	9104	4417	45687	-1691
+Oct 2025	2025	Q4	Europe	Accessories	Online / E-Commerce	21425	10339	5022	6064	20853	572
+Oct 2025	2025	Q4	Europe	Hardware	Partner Network	47806	31992	10039	5775	47083	723
+Oct 2025	2025	Q4	Europe	Enterprise Software	Partner Network	75551	20146	16192	39213	75623	-72
+Oct 2025	2025	Q4	Europe	Cloud Services	Partner Network	91780	31429	20224	40127	96918	-5138
+Oct 2025	2025	Q4	Europe	Consumer Electronics	Partner Network	41968	30237	10114	1617	41602	366
+Oct 2025	2025	Q4	Europe	Accessories	Partner Network	23913	12626	5183	6104	25167	-1254
+Oct 2025	2025	Q4	Asia-Pacific	Hardware	Enterprise Direct	41105	26539	9851	4715	38444	2661
+Oct 2025	2025	Q4	Asia-Pacific	Enterprise Software	Enterprise Direct	50416	15438	9868	25110	53802	-3386
+Oct 2025	2025	Q4	Asia-Pacific	Cloud Services	Enterprise Direct	77174	24513	18922	33739	72550	4624
+Oct 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Enterprise Direct	27601	20800	5452	1349	29509	-1908
+Oct 2025	2025	Q4	Asia-Pacific	Accessories	Enterprise Direct	19546	9187	4807	5552	20505	-959
+Oct 2025	2025	Q4	Asia-Pacific	Hardware	Retail Stores	33020	22604	7872	2544	34450	-1430
+Oct 2025	2025	Q4	Asia-Pacific	Enterprise Software	Retail Stores	57895	17630	13677	26588	58680	-785
+Oct 2025	2025	Q4	Asia-Pacific	Cloud Services	Retail Stores	76729	28517	17270	30942	76610	119
+Oct 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Retail Stores	33964	24684	7452	1828	32701	1263
+Oct 2025	2025	Q4	Asia-Pacific	Accessories	Retail Stores	17801	8887	3668	5246	18231	-430
+Oct 2025	2025	Q4	Asia-Pacific	Hardware	Online / E-Commerce	37091	23419	8496	5176	35279	1812
+Oct 2025	2025	Q4	Asia-Pacific	Enterprise Software	Online / E-Commerce	47679	13926	9616	24137	45481	2198
+Oct 2025	2025	Q4	Asia-Pacific	Cloud Services	Online / E-Commerce	73448	23913	14889	34646	77884	-4436
+Oct 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Online / E-Commerce	28536	19888	6924	1724	28324	212
+Oct 2025	2025	Q4	Asia-Pacific	Accessories	Online / E-Commerce	15860	8409	3445	4006	16804	-944
+Oct 2025	2025	Q4	Asia-Pacific	Hardware	Partner Network	41413	26764	10035	4614	43478	-2065
+Oct 2025	2025	Q4	Asia-Pacific	Enterprise Software	Partner Network	50538	15654	12063	22821	50515	23
+Oct 2025	2025	Q4	Asia-Pacific	Cloud Services	Partner Network	78105	29284	17170	31651	73971	4134
+Oct 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Partner Network	34350	24724	6875	2751	34690	-340
+Oct 2025	2025	Q4	Asia-Pacific	Accessories	Partner Network	17345	8213	3880	5252	16548	797
+Oct 2025	2025	Q4	Latin America	Hardware	Enterprise Direct	33508	21946	6795	4767	35340	-1832
+Oct 2025	2025	Q4	Latin America	Enterprise Software	Enterprise Direct	52204	13418	12555	26231	53261	-1057
+Oct 2025	2025	Q4	Latin America	Cloud Services	Enterprise Direct	64215	24231	14615	25369	64329	-114
+Oct 2025	2025	Q4	Latin America	Consumer Electronics	Enterprise Direct	34634	25287	7643	1704	34512	122
+Oct 2025	2025	Q4	Latin America	Accessories	Enterprise Direct	18019	9025	3940	5054	16599	1420
+Oct 2025	2025	Q4	Latin America	Hardware	Retail Stores	37324	24195	7108	6021	36507	817
+Oct 2025	2025	Q4	Latin America	Enterprise Software	Retail Stores	50913	12250	10783	27880	50567	346
+Oct 2025	2025	Q4	Latin America	Cloud Services	Retail Stores	59886	20305	13022	26559	56546	3340
+Oct 2025	2025	Q4	Latin America	Consumer Electronics	Retail Stores	30125	21588	5997	2540	30054	71
+Oct 2025	2025	Q4	Latin America	Accessories	Retail Stores	17139	8092	3755	5292	16619	520
+Oct 2025	2025	Q4	Latin America	Hardware	Online / E-Commerce	33310	21612	6950	4748	32532	778
+Oct 2025	2025	Q4	Latin America	Enterprise Software	Online / E-Commerce	51026	13514	10779	26733	53758	-2732
+Oct 2025	2025	Q4	Latin America	Cloud Services	Online / E-Commerce	66273	22422	15911	27940	62820	3453
+Oct 2025	2025	Q4	Latin America	Consumer Electronics	Online / E-Commerce	30038	22431	6021	1586	31454	-1416
+Oct 2025	2025	Q4	Latin America	Accessories	Online / E-Commerce	19103	9054	4540	5509	20484	-1381
+Oct 2025	2025	Q4	Latin America	Hardware	Partner Network	33566	22609	8295	2662	35050	-1484
+Oct 2025	2025	Q4	Latin America	Enterprise Software	Partner Network	55783	17636	13197	24950	56091	-308
+Oct 2025	2025	Q4	Latin America	Cloud Services	Partner Network	79793	29692	17720	32381	78519	1274
+Oct 2025	2025	Q4	Latin America	Consumer Electronics	Partner Network	34018	24587	7280	2151	36399	-2381
+Oct 2025	2025	Q4	Latin America	Accessories	Partner Network	17540	8630	4319	4591	18322	-782
+Oct 2025	2025	Q4	Middle East & Africa	Hardware	Enterprise Direct	36086	24719	8543	2824	36604	-518
+Oct 2025	2025	Q4	Middle East & Africa	Enterprise Software	Enterprise Direct	57980	17528	13068	27384	56662	1318
+Oct 2025	2025	Q4	Middle East & Africa	Cloud Services	Enterprise Direct	76144	27197	16103	32844	73170	2974
+Oct 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Enterprise Direct	32259	22860	6624	2775	33299	-1040
+Oct 2025	2025	Q4	Middle East & Africa	Accessories	Enterprise Direct	16620	7985	3857	4778	16202	418
+Oct 2025	2025	Q4	Middle East & Africa	Hardware	Retail Stores	34476	22965	7259	4252	36350	-1874
+Oct 2025	2025	Q4	Middle East & Africa	Enterprise Software	Retail Stores	54352	14535	13065	26752	50798	3554
+Oct 2025	2025	Q4	Middle East & Africa	Cloud Services	Retail Stores	66951	25252	13088	28611	70126	-3175
+Oct 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Retail Stores	34614	23791	8231	2592	34378	236
+Oct 2025	2025	Q4	Middle East & Africa	Accessories	Retail Stores	15232	7977	3312	3943	15634	-402
+Oct 2025	2025	Q4	Middle East & Africa	Hardware	Online / E-Commerce	40507	26191	9312	5004	37681	2826
+Oct 2025	2025	Q4	Middle East & Africa	Enterprise Software	Online / E-Commerce	50598	14835	9808	25955	53182	-2584
+Oct 2025	2025	Q4	Middle East & Africa	Cloud Services	Online / E-Commerce	73744	23238	17636	32870	71740	2004
+Oct 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Online / E-Commerce	27304	20356	5729	1219	29485	-2181
+Oct 2025	2025	Q4	Middle East & Africa	Accessories	Online / E-Commerce	19022	9252	4755	5015	18764	258
+Oct 2025	2025	Q4	Middle East & Africa	Hardware	Partner Network	35304	24358	7587	3359	37196	-1892
+Oct 2025	2025	Q4	Middle East & Africa	Enterprise Software	Partner Network	58929	16101	14149	28679	63147	-4218
+Oct 2025	2025	Q4	Middle East & Africa	Cloud Services	Partner Network	68481	25803	16904	25774	64593	3888
+Oct 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Partner Network	34570	26127	6869	1574	34537	33
+Oct 2025	2025	Q4	Middle East & Africa	Accessories	Partner Network	19690	9286	4325	6079	20087	-397
+Nov 2025	2025	Q4	North America	Hardware	Enterprise Direct	58170	37783	13237	7150	56956	1214
+Nov 2025	2025	Q4	North America	Enterprise Software	Enterprise Direct	89533	25972	18997	44564	93200	-3667
+Nov 2025	2025	Q4	North America	Cloud Services	Enterprise Direct	127616	43334	30036	54246	118198	9418
+Nov 2025	2025	Q4	North America	Consumer Electronics	Enterprise Direct	52823	39114	10159	3550	52242	581
+Nov 2025	2025	Q4	North America	Accessories	Enterprise Direct	32713	15149	7062	10502	31434	1279
+Nov 2025	2025	Q4	North America	Hardware	Retail Stores	56092	36151	11518	8423	53291	2801
+Nov 2025	2025	Q4	North America	Enterprise Software	Retail Stores	87843	22878	17681	47284	85717	2126
+Nov 2025	2025	Q4	North America	Cloud Services	Retail Stores	113950	37038	24035	52877	107277	6673
+Nov 2025	2025	Q4	North America	Consumer Electronics	Retail Stores	49827	35273	9868	4686	50458	-631
+Nov 2025	2025	Q4	North America	Accessories	Retail Stores	29002	13652	6518	8832	29393	-391
+Nov 2025	2025	Q4	North America	Hardware	Online / E-Commerce	57952	38036	13042	6874	57415	537
+Nov 2025	2025	Q4	North America	Enterprise Software	Online / E-Commerce	91822	26329	19882	45611	95904	-4082
+Nov 2025	2025	Q4	North America	Cloud Services	Online / E-Commerce	126074	43542	29838	52694	131560	-5486
+Nov 2025	2025	Q4	North America	Consumer Electronics	Online / E-Commerce	54019	40094	12766	1159	50799	3220
+Nov 2025	2025	Q4	North America	Accessories	Online / E-Commerce	32912	17172	6505	9235	33876	-964
+Nov 2025	2025	Q4	North America	Hardware	Partner Network	70411	43669	16264	10478	74289	-3878
+Nov 2025	2025	Q4	North America	Enterprise Software	Partner Network	79669	23474	19173	37022	73672	5997
+Nov 2025	2025	Q4	North America	Cloud Services	Partner Network	129721	48975	24877	55869	137929	-8208
+Nov 2025	2025	Q4	North America	Consumer Electronics	Partner Network	60650	41385	14782	4483	59946	704
+Nov 2025	2025	Q4	North America	Accessories	Partner Network	26092	13871	5627	6594	27298	-1206
+Nov 2025	2025	Q4	Europe	Hardware	Enterprise Direct	57218	36859	13579	6780	53073	4145
+Nov 2025	2025	Q4	Europe	Enterprise Software	Enterprise Direct	68939	20896	13294	34749	64616	4323
+Nov 2025	2025	Q4	Europe	Cloud Services	Enterprise Direct	104987	32943	20628	51416	106248	-1261
+Nov 2025	2025	Q4	Europe	Consumer Electronics	Enterprise Direct	37327	25705	8380	3242	35660	1667
+Nov 2025	2025	Q4	Europe	Accessories	Enterprise Direct	21063	10658	4281	6124	21243	-180
+Nov 2025	2025	Q4	Europe	Hardware	Retail Stores	52302	32829	11674	7799	51680	622
+Nov 2025	2025	Q4	Europe	Enterprise Software	Retail Stores	64573	18356	13918	32299	65915	-1342
+Nov 2025	2025	Q4	Europe	Cloud Services	Retail Stores	98163	33773	22361	42029	101391	-3228
+Nov 2025	2025	Q4	Europe	Consumer Electronics	Retail Stores	42230	30844	9811	1575	41614	616
+Nov 2025	2025	Q4	Europe	Accessories	Retail Stores	24800	12808	5320	6672	25176	-376
+Nov 2025	2025	Q4	Europe	Hardware	Online / E-Commerce	54303	34901	12255	7147	58472	-4169
+Nov 2025	2025	Q4	Europe	Enterprise Software	Online / E-Commerce	68545	19712	17053	31780	68546	-1
+Nov 2025	2025	Q4	Europe	Cloud Services	Online / E-Commerce	99363	38591	21860	38912	104940	-5577
+Nov 2025	2025	Q4	Europe	Consumer Electronics	Online / E-Commerce	49410	35575	11910	1925	49587	-177
+Nov 2025	2025	Q4	Europe	Accessories	Online / E-Commerce	23870	12605	5283	5982	21970	1900
+Nov 2025	2025	Q4	Europe	Hardware	Partner Network	56533	36848	10750	8935	59632	-3099
+Nov 2025	2025	Q4	Europe	Enterprise Software	Partner Network	70946	17042	17066	36838	72117	-1171
+Nov 2025	2025	Q4	Europe	Cloud Services	Partner Network	82201	31023	18593	32585	84024	-1823
+Nov 2025	2025	Q4	Europe	Consumer Electronics	Partner Network	47633	34689	10875	2069	47619	14
+Nov 2025	2025	Q4	Europe	Accessories	Partner Network	24609	12577	5411	6621	22712	1897
+Nov 2025	2025	Q4	Asia-Pacific	Hardware	Enterprise Direct	38747	25180	7404	6163	41359	-2612
+Nov 2025	2025	Q4	Asia-Pacific	Enterprise Software	Enterprise Direct	51225	12368	12564	26293	50528	697
+Nov 2025	2025	Q4	Asia-Pacific	Cloud Services	Enterprise Direct	60108	23064	12917	24127	63348	-3240
+Nov 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Enterprise Direct	35383	25235	8499	1649	34813	570
+Nov 2025	2025	Q4	Asia-Pacific	Accessories	Enterprise Direct	16917	8914	3619	4384	16200	717
+Nov 2025	2025	Q4	Asia-Pacific	Hardware	Retail Stores	40960	26294	8360	6306	39622	1338
+Nov 2025	2025	Q4	Asia-Pacific	Enterprise Software	Retail Stores	49704	12864	10326	26514	50764	-1060
+Nov 2025	2025	Q4	Asia-Pacific	Cloud Services	Retail Stores	64682	21582	14747	28353	60183	4499
+Nov 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Retail Stores	29489	21546	5718	2225	27516	1973
+Nov 2025	2025	Q4	Asia-Pacific	Accessories	Retail Stores	18054	8399	3519	6136	18395	-341
+Nov 2025	2025	Q4	Asia-Pacific	Hardware	Online / E-Commerce	32348	19944	7346	5058	31780	568
+Nov 2025	2025	Q4	Asia-Pacific	Enterprise Software	Online / E-Commerce	44822	12973	9566	22283	48268	-3446
+Nov 2025	2025	Q4	Asia-Pacific	Cloud Services	Online / E-Commerce	72754	24826	18104	29824	69648	3106
+Nov 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Online / E-Commerce	30380	23042	6197	1141	32547	-2167
+Nov 2025	2025	Q4	Asia-Pacific	Accessories	Online / E-Commerce	19863	9508	4901	5454	20363	-500
+Nov 2025	2025	Q4	Asia-Pacific	Hardware	Partner Network	34223	23465	7852	2906	33852	371
+Nov 2025	2025	Q4	Asia-Pacific	Enterprise Software	Partner Network	58107	17001	12547	28559	59191	-1084
+Nov 2025	2025	Q4	Asia-Pacific	Cloud Services	Partner Network	73581	25354	16703	31524	70961	2620
+Nov 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Partner Network	30774	22444	6359	1971	32321	-1547
+Nov 2025	2025	Q4	Asia-Pacific	Accessories	Partner Network	17967	8664	4291	5012	18107	-140
+Nov 2025	2025	Q4	Latin America	Hardware	Enterprise Direct	34717	23439	7739	3539	37465	-2748
+Nov 2025	2025	Q4	Latin America	Enterprise Software	Enterprise Direct	56084	15922	14003	26159	55370	714
+Nov 2025	2025	Q4	Latin America	Cloud Services	Enterprise Direct	71293	27774	15344	28175	65696	5597
+Nov 2025	2025	Q4	Latin America	Consumer Electronics	Enterprise Direct	36076	25745	6875	3456	34635	1441
+Nov 2025	2025	Q4	Latin America	Accessories	Enterprise Direct	16945	7807	3474	5664	17916	-971
+Nov 2025	2025	Q4	Latin America	Hardware	Retail Stores	31724	19987	7661	4076	33502	-1778
+Nov 2025	2025	Q4	Latin America	Enterprise Software	Retail Stores	47415	14635	11428	21352	45089	2326
+Nov 2025	2025	Q4	Latin America	Cloud Services	Retail Stores	77819	29418	15688	32713	80164	-2345
+Nov 2025	2025	Q4	Latin America	Consumer Electronics	Retail Stores	34715	24143	8030	2542	34173	542
+Nov 2025	2025	Q4	Latin America	Accessories	Retail Stores	15763	8119	3376	4268	14760	1003
+Nov 2025	2025	Q4	Latin America	Hardware	Online / E-Commerce	39302	25239	7709	6354	40028	-726
+Nov 2025	2025	Q4	Latin America	Enterprise Software	Online / E-Commerce	49752	12348	11290	26114	52473	-2721
+Nov 2025	2025	Q4	Latin America	Cloud Services	Online / E-Commerce	61885	22231	14884	24770	59391	2494
+Nov 2025	2025	Q4	Latin America	Consumer Electronics	Online / E-Commerce	32501	24290	6659	1552	30596	1905
+Nov 2025	2025	Q4	Latin America	Accessories	Online / E-Commerce	19140	9184	3790	6166	20000	-860
+Nov 2025	2025	Q4	Latin America	Hardware	Partner Network	34389	21345	8145	4899	32098	2291
+Nov 2025	2025	Q4	Latin America	Enterprise Software	Partner Network	45621	13799	8897	22925	42267	3354
+Nov 2025	2025	Q4	Latin America	Cloud Services	Partner Network	76185	24127	14660	37398	74485	1700
+Nov 2025	2025	Q4	Latin America	Consumer Electronics	Partner Network	27489	18782	5818	2889	26899	590
+Nov 2025	2025	Q4	Latin America	Accessories	Partner Network	14967	7316	3172	4479	14980	-13
+Nov 2025	2025	Q4	Middle East & Africa	Hardware	Enterprise Direct	35643	22786	7853	5004	33144	2499
+Nov 2025	2025	Q4	Middle East & Africa	Enterprise Software	Enterprise Direct	49192	13795	9529	25868	49959	-767
+Nov 2025	2025	Q4	Middle East & Africa	Cloud Services	Enterprise Direct	70380	22166	15895	32319	70366	14
+Nov 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Enterprise Direct	27284	19857	6000	1427	28563	-1279
+Nov 2025	2025	Q4	Middle East & Africa	Accessories	Enterprise Direct	17868	8932	4245	4691	18663	-795
+Nov 2025	2025	Q4	Middle East & Africa	Hardware	Retail Stores	37186	25042	8801	3343	35451	1735
+Nov 2025	2025	Q4	Middle East & Africa	Enterprise Software	Retail Stores	55757	16852	11291	27614	58992	-3235
+Nov 2025	2025	Q4	Middle East & Africa	Cloud Services	Retail Stores	76128	24869	18404	32855	71804	4324
+Nov 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Retail Stores	28665	21470	5696	1499	27042	1623
+Nov 2025	2025	Q4	Middle East & Africa	Accessories	Retail Stores	19248	9077	3826	6345	20270	-1022
+Nov 2025	2025	Q4	Middle East & Africa	Hardware	Online / E-Commerce	33238	20664	7974	4600	32382	856
+Nov 2025	2025	Q4	Middle East & Africa	Enterprise Software	Online / E-Commerce	45814	14044	9637	22133	42627	3187
+Nov 2025	2025	Q4	Middle East & Africa	Cloud Services	Online / E-Commerce	77262	26047	14982	36233	74452	2810
+Nov 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Online / E-Commerce	29897	20486	6170	3241	31882	-1985
+Nov 2025	2025	Q4	Middle East & Africa	Accessories	Online / E-Commerce	15096	7273	3697	4126	15534	-438
+Nov 2025	2025	Q4	Middle East & Africa	Hardware	Partner Network	34663	23682	8003	2978	32271	2392
+Nov 2025	2025	Q4	Middle East & Africa	Enterprise Software	Partner Network	57634	16975	11188	29471	62055	-4421
+Nov 2025	2025	Q4	Middle East & Africa	Cloud Services	Partner Network	74093	23377	18432	32284	72989	1104
+Nov 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Partner Network	27350	20741	5864	745	25377	1973
+Nov 2025	2025	Q4	Middle East & Africa	Accessories	Partner Network	19857	9781	3831	6245	18578	1279
+Dec 2025	2025	Q4	North America	Hardware	Enterprise Direct	63282	38851	12393	12038	58769	4513
+Dec 2025	2025	Q4	North America	Enterprise Software	Enterprise Direct	77564	19220	14990	43354	81482	-3918
+Dec 2025	2025	Q4	North America	Cloud Services	Enterprise Direct	108114	33984	25833	48297	112814	-4700
+Dec 2025	2025	Q4	North America	Consumer Electronics	Enterprise Direct	47622	35491	11253	878	50816	-3194
+Dec 2025	2025	Q4	North America	Accessories	Enterprise Direct	33257	17351	8153	7753	30673	2584
+Dec 2025	2025	Q4	North America	Hardware	Retail Stores	70406	48125	13438	8843	68583	1823
+Dec 2025	2025	Q4	North America	Enterprise Software	Retail Stores	100974	24350	21234	55390	104519	-3545
+Dec 2025	2025	Q4	North America	Cloud Services	Retail Stores	105054	35409	24495	45150	100276	4778
+Dec 2025	2025	Q4	North America	Consumer Electronics	Retail Stores	52304	38577	10615	3112	48162	4142
+Dec 2025	2025	Q4	North America	Accessories	Retail Stores	32380	15454	6162	10764	32964	-584
+Dec 2025	2025	Q4	North America	Hardware	Online / E-Commerce	59549	36349	13504	9696	61831	-2282
+Dec 2025	2025	Q4	North America	Enterprise Software	Online / E-Commerce	76375	22074	17900	36401	71955	4420
+Dec 2025	2025	Q4	North America	Cloud Services	Online / E-Commerce	127127	46930	25209	54988	119874	7253
+Dec 2025	2025	Q4	North America	Consumer Electronics	Online / E-Commerce	58923	40719	11702	6502	58340	583
+Dec 2025	2025	Q4	North America	Accessories	Online / E-Commerce	27083	12769	5858	8456	26042	1041
+Dec 2025	2025	Q4	North America	Hardware	Partner Network	58136	37501	11952	8683	54524	3612
+Dec 2025	2025	Q4	North America	Enterprise Software	Partner Network	88028	22956	17315	47757	92462	-4434
+Dec 2025	2025	Q4	North America	Cloud Services	Partner Network	114106	36393	27259	50454	112383	1723
+Dec 2025	2025	Q4	North America	Consumer Electronics	Partner Network	48570	36194	10410	1966	48456	114
+Dec 2025	2025	Q4	North America	Accessories	Partner Network	33249	16373	7285	9591	33718	-469
+Dec 2025	2025	Q4	Europe	Hardware	Enterprise Direct	49702	32248	11197	6257	46363	3339
+Dec 2025	2025	Q4	Europe	Enterprise Software	Enterprise Direct	70162	20140	13668	36354	66750	3412
+Dec 2025	2025	Q4	Europe	Cloud Services	Enterprise Direct	99170	31379	20009	47782	93114	6056
+Dec 2025	2025	Q4	Europe	Consumer Electronics	Enterprise Direct	37753	26264	7441	4048	39278	-1525
+Dec 2025	2025	Q4	Europe	Accessories	Enterprise Direct	21693	10184	5101	6408	22325	-632
+Dec 2025	2025	Q4	Europe	Hardware	Retail Stores	45294	30356	10460	4478	48228	-2934
+Dec 2025	2025	Q4	Europe	Enterprise Software	Retail Stores	75810	22332	18520	34958	75478	332
+Dec 2025	2025	Q4	Europe	Cloud Services	Retail Stores	101899	38965	22250	40684	96847	5052
+Dec 2025	2025	Q4	Europe	Consumer Electronics	Retail Stores	48440	34771	9756	3913	48405	35
+Dec 2025	2025	Q4	Europe	Accessories	Retail Stores	23674	11250	5202	7222	23562	112
+Dec 2025	2025	Q4	Europe	Hardware	Online / E-Commerce	46395	30140	10125	6130	46649	-254
+Dec 2025	2025	Q4	Europe	Enterprise Software	Online / E-Commerce	70377	19539	15628	35210	74636	-4259
+Dec 2025	2025	Q4	Europe	Cloud Services	Online / E-Commerce	95761	33779	23241	38741	90491	5270
+Dec 2025	2025	Q4	Europe	Consumer Electronics	Online / E-Commerce	43637	32739	8700	2198	42984	653
+Dec 2025	2025	Q4	Europe	Accessories	Online / E-Commerce	26578	12558	5698	8322	25086	1492
+Dec 2025	2025	Q4	Europe	Hardware	Partner Network	45872	29474	9126	7272	45000	872
+Dec 2025	2025	Q4	Europe	Enterprise Software	Partner Network	68496	17257	14581	36658	71579	-3083
+Dec 2025	2025	Q4	Europe	Cloud Services	Partner Network	86448	29435	20477	36536	80613	5835
+Dec 2025	2025	Q4	Europe	Consumer Electronics	Partner Network	41653	30927	8109	2617	40111	1542
+Dec 2025	2025	Q4	Europe	Accessories	Partner Network	25884	12068	5335	8481	25674	210
+Dec 2025	2025	Q4	Asia-Pacific	Hardware	Enterprise Direct	32492	20518	7050	4924	34188	-1696
+Dec 2025	2025	Q4	Asia-Pacific	Enterprise Software	Enterprise Direct	47696	13162	11427	23107	50949	-3253
+Dec 2025	2025	Q4	Asia-Pacific	Cloud Services	Enterprise Direct	69200	26026	16994	26180	69916	-716
+Dec 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Enterprise Direct	34487	26007	7721	759	35906	-1419
+Dec 2025	2025	Q4	Asia-Pacific	Accessories	Enterprise Direct	19580	9891	4610	5079	18392	1188
+Dec 2025	2025	Q4	Asia-Pacific	Hardware	Retail Stores	37922	25430	7480	5012	39725	-1803
+Dec 2025	2025	Q4	Asia-Pacific	Enterprise Software	Retail Stores	55208	13784	13130	28294	55908	-700
+Dec 2025	2025	Q4	Asia-Pacific	Cloud Services	Retail Stores	62274	23276	13996	25002	66522	-4248
+Dec 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Retail Stores	34213	24850	8402	961	31658	2555
+Dec 2025	2025	Q4	Asia-Pacific	Accessories	Retail Stores	17773	9493	3412	4868	18110	-337
+Dec 2025	2025	Q4	Asia-Pacific	Hardware	Online / E-Commerce	41958	25706	9529	6723	42497	-539
+Dec 2025	2025	Q4	Asia-Pacific	Enterprise Software	Online / E-Commerce	44076	12759	9909	21408	45767	-1691
+Dec 2025	2025	Q4	Asia-Pacific	Cloud Services	Online / E-Commerce	72763	25934	17055	29774	73043	-280
+Dec 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Online / E-Commerce	32170	23780	7124	1266	31552	618
+Dec 2025	2025	Q4	Asia-Pacific	Accessories	Online / E-Commerce	18609	9340	3960	5309	17598	1011
+Dec 2025	2025	Q4	Asia-Pacific	Hardware	Partner Network	37469	23995	7480	5994	37641	-172
+Dec 2025	2025	Q4	Asia-Pacific	Enterprise Software	Partner Network	49409	12492	10955	25962	51655	-2246
+Dec 2025	2025	Q4	Asia-Pacific	Cloud Services	Partner Network	63108	22232	14960	25916	62939	169
+Dec 2025	2025	Q4	Asia-Pacific	Consumer Electronics	Partner Network	31683	23532	6938	1213	32240	-557
+Dec 2025	2025	Q4	Asia-Pacific	Accessories	Partner Network	18840	9395	4269	5176	18886	-46
+Dec 2025	2025	Q4	Latin America	Hardware	Enterprise Direct	37013	24384	8177	4452	34420	2593
+Dec 2025	2025	Q4	Latin America	Enterprise Software	Enterprise Direct	52943	14889	10257	27797	51757	1186
+Dec 2025	2025	Q4	Latin America	Cloud Services	Enterprise Direct	70592	22235	14937	33420	65908	4684
+Dec 2025	2025	Q4	Latin America	Consumer Electronics	Enterprise Direct	27287	19341	5324	2622	25346	1941
+Dec 2025	2025	Q4	Latin America	Accessories	Enterprise Direct	16631	7764	3215	5652	15362	1269
+Dec 2025	2025	Q4	Latin America	Hardware	Retail Stores	32572	20013	6234	6325	30199	2373
+Dec 2025	2025	Q4	Latin America	Enterprise Software	Retail Stores	44417	10742	8558	25117	42453	1964
+Dec 2025	2025	Q4	Latin America	Cloud Services	Retail Stores	60210	18880	12248	29082	60488	-278
+Dec 2025	2025	Q4	Latin America	Consumer Electronics	Retail Stores	27123	18929	6014	2180	26868	255
+Dec 2025	2025	Q4	Latin America	Accessories	Retail Stores	15921	7997	3446	4478	16153	-232
+Dec 2025	2025	Q4	Latin America	Hardware	Online / E-Commerce	37522	24213	8460	4849	37373	149
+Dec 2025	2025	Q4	Latin America	Enterprise Software	Online / E-Commerce	50349	14464	11002	24883	48253	2096
+Dec 2025	2025	Q4	Latin America	Cloud Services	Online / E-Commerce	72184	25121	14754	32309	66991	5193
+Dec 2025	2025	Q4	Latin America	Consumer Electronics	Online / E-Commerce	31179	21800	6018	3361	29415	1764
+Dec 2025	2025	Q4	Latin America	Accessories	Online / E-Commerce	16005	7427	3182	5396	16813	-808
+Dec 2025	2025	Q4	Latin America	Hardware	Partner Network	32182	20008	7689	4485	32772	-590
+Dec 2025	2025	Q4	Latin America	Enterprise Software	Partner Network	45817	13985	10395	21437	44481	1336
+Dec 2025	2025	Q4	Latin America	Cloud Services	Partner Network	76919	27627	16081	33211	71523	5396
+Dec 2025	2025	Q4	Latin America	Consumer Electronics	Partner Network	32493	22921	6294	3278	30182	2311
+Dec 2025	2025	Q4	Latin America	Accessories	Partner Network	16411	7630	3173	5608	17625	-1214
+Dec 2025	2025	Q4	Middle East & Africa	Hardware	Enterprise Direct	32307	19851	8004	4452	32622	-315
+Dec 2025	2025	Q4	Middle East & Africa	Enterprise Software	Enterprise Direct	44418	14080	9935	20403	41630	2788
+Dec 2025	2025	Q4	Middle East & Africa	Cloud Services	Enterprise Direct	80014	28395	15720	35899	76155	3859
+Dec 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Enterprise Direct	31988	22028	6459	3501	30313	1675
+Dec 2025	2025	Q4	Middle East & Africa	Accessories	Enterprise Direct	15317	7289	3069	4959	16006	-689
+Dec 2025	2025	Q4	Middle East & Africa	Hardware	Retail Stores	33836	21107	8015	4714	33628	208
+Dec 2025	2025	Q4	Middle East & Africa	Enterprise Software	Retail Stores	46220	13981	10062	22177	43635	2585
+Dec 2025	2025	Q4	Middle East & Africa	Cloud Services	Retail Stores	76193	26434	15164	34595	74930	1263
+Dec 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Retail Stores	31052	21489	6638	2925	32806	-1754
+Dec 2025	2025	Q4	Middle East & Africa	Accessories	Retail Stores	15539	7641	3748	4150	14983	556
+Dec 2025	2025	Q4	Middle East & Africa	Hardware	Online / E-Commerce	36044	24446	7446	4152	34656	1388
+Dec 2025	2025	Q4	Middle East & Africa	Enterprise Software	Online / E-Commerce	56681	14857	11651	30173	57039	-358
+Dec 2025	2025	Q4	Middle East & Africa	Cloud Services	Online / E-Commerce	65556	21682	14578	29296	70754	-5198
+Dec 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Online / E-Commerce	29145	21076	7278	791	27893	1252
+Dec 2025	2025	Q4	Middle East & Africa	Accessories	Online / E-Commerce	17566	9479	3582	4505	17891	-325
+Dec 2025	2025	Q4	Middle East & Africa	Hardware	Partner Network	42730	26857	9697	6176	45312	-2582
+Dec 2025	2025	Q4	Middle East & Africa	Enterprise Software	Partner Network	47126	13631	11435	22060	46759	367
+Dec 2025	2025	Q4	Middle East & Africa	Cloud Services	Partner Network	72702	27642	15782	29278	68467	4235
+Dec 2025	2025	Q4	Middle East & Africa	Consumer Electronics	Partner Network	34972	25044	6930	2998	34427	545
+Dec 2025	2025	Q4	Middle East & Africa	Accessories	Partner Network	17106	8055	3663	5388	17976	-870
